@@ -1,0 +1,49 @@
+body{
+    margin-top: 4px;
+}
+.logo{
+    width: 110px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 0px;
+    position: absolute;
+}
+.phone{
+    display:inline-block;
+    margin-left: 185px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+}
+.TV,
+.audio,
+.tablet,
+.Accessories,
+.Offers{
+    display:inline;
+    margin-top: 14px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+}
+.store{
+    display: inline-block;
+    margin-top: 14px;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 200px;
+    margin-bottom: 0px;
+}
+.onetopia,
+.featuring,
+.community,
+.support{
+    display: inline-block;
+    margin-top: 14px;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
