@@ -47,3 +47,57 @@ body{
     margin-left: 20px;
     margin-bottom: 0px;
 }
+.search{
+    width: 30px;
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 34px;
+    position: absolute;
+}
+.cart{
+    width: 30px;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 85px;
+    position: absolute;
+}
+.profile{
+    width: 30px;
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 133px;
+    position: absolute;
+}
+.nord-ce-3{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+    margin-left: 54px;
+    margin-top: 80px;
+    display: inline-block;
+}
+sup{
+    font-size: 27px;
+}
+.CE3-img{
+    display: inline-block;
+    position: absolute;
+    width: 770px;
+    top: 80px;
+    left: 500px;
+}
+.price{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    margin-left: 54px;
+    margin-top: 150px;
+    color: rgb(75, 75, 75);
+}
+.offers{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    margin-left: 54px;
+    margin-top: 30px;
+}
