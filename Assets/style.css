@@ -100,4 +100,20 @@ sup{
     font-size: 17px;
     margin-left: 54px;
     margin-top: 30px;
+    margin-bottom: 0px;
+}
+.buy-now{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    margin-left: 94px;
+    margin-top: 45px;
+    display: inline-block;
+}
+.learn-more{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 64px;
 }
