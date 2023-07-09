@@ -1,209 +1,88 @@
-body{
-    margin: 0px;
-
-}
-.logo{
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: white;
+    display: inline-block;
+  }
+  
+  .topnav a {
+    color: black;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    top: 3px;
+    left: 12px;
+    padding-bottom: 6px;
+    text-decoration: none;
+    font-size: 14px;
+    position: relative;
+  }
+  .logo{
     width: 110px;
+    margin-left: 40px;
+    margin-top: 3px;
+  }
+  .topnav a:hover {
+    border-bottom-style:solid;
+    border-color: red;
+  }
+  .toprightnav {
+    overflow: hidden;
+    background-color: white;
     display: inline-block;
-    margin-left: 50px;
-    margin-top: 4px;
-    position: absolute;
-}
-.phone{
-    display:inline-block;
-    margin-left: 185px;
-    margin-top: 17px;
-    margin-bottom: 0px;
-    font-size: 13px;
-    font-family: 'Inter', sans-serif;
-}
-.TV,
-.audio,
-.tablet,
-.Accessories,
-.Offers{
-    display:inline;
-    margin-top: 14px;
-    margin-bottom: 0px;
-    margin-left: 20px;
-    font-size: 13px;
-    font-family: 'Inter', sans-serif;
-}
-.store{
+  }
+  .toprightnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    top: 13px;
+    left: 12px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    position: relative;
     display: inline-block;
-    margin-top: 14px;
-    font-size: 13px;
-    font-family: 'Inter', sans-serif;
-    margin-left: 200px;
-    margin-bottom: 0px;
-}
-.onetopia,
-.featuring,
-.community,
-.support{
+  }
+  .toprightnav a:hover {
+    border-bottom-style:solid;
+    border-color: red;
+  }
+  
+  .material-symbols-outlined{
+    float: right;
+    color: black;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    font-size: 14px;
     display: inline-block;
-    margin-top: 14px;
-    font-size: 13px;
-    font-family: 'Inter', sans-serif;
-    margin-left: 20px;
-    margin-bottom: 0px;
-}
-.search{
-    width: 30px;
-    display: inline-block;
-    margin-top: 11px;
-    margin-left: 34px;
-    position: absolute;
-}
-.cart{
-    width: 30px;
-    display: inline-block;
-    margin-top: 9px;
-    margin-left: 85px;
-    position: absolute;
-}
-.profile{
-    width: 30px;
-    display: inline-block;
-    margin-top: 11px;
-    margin-left: 133px;
-    position: absolute;
-}
-.nord-ce-3{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 40px;
-    margin-left: 54px;
-    margin-top: 80px;
-    display: inline-block;
-}
-sup{
-    font-size: 27px;
-}
-.CE3-img{
-    display: inline-block;
-    position: absolute;
-    width: 770px;
-    top: 80px;
-    left: 500px;
-}
-.price{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 17px;
-    margin-left: 54px;
-    margin-top: 180px;
-    color: rgb(75, 75, 75);
-}
-.offers{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 17px;
-    margin-left: 54px;
-    margin-top: 30px;
-    margin-bottom: 0px;
-}
-.buy-now{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 15px;
-    margin-left: 43px;
-    margin-top: 11px;
-    color: white;
-    margin-bottom: 0px;
-}
-.learn-more{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 12px;
-    display: inline-block;
-    margin-left: 90px;
-}
-.header{
-    height: 50px;
-}
-.product-1{
-    background: rgb(229,229,229);
-    background: linear-gradient(0deg, rgba(229,229,229,1) 0%, rgba(246,246,246,1) 100%);
+  }
+  .material-symbols-outlined:hover{
+    border-bottom-style:solid;
+    border-color: red;
+  }
+  .CE3lite{
+    background: rgb(241,241,241);
+    background: linear-gradient(0deg, rgba(241,241,241,1) 0%, rgba(243,243,243,1) 100%);
     height: 650px;
-}
-.button,
-.button-2{
-    background-color: black;
+  }
+  .ce3title{
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -2px;
     display: inline-block;
-    position: relative;
-    left: 54px;
-    width: 150px;
-    height: 40px;
-    margin-top: 25px;
-}
-.product-2{
-    background-color: #FFFFFF;
-    height: 530px;
-}
-.oneplus11{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 50px;
-    margin-left: 110px;
-    margin-top: 60px;
-    display: inline-block;
-}
-.oneplus11R-img{
-    display: inline-block;
-    position: absolute;
-    width: 778px;
-    top: 765px;
-    left: 630px;
-    right: 110px;
-}
-.offer-11r{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 15px;
-    margin-left: 110px;
-    margin-top: 125px;
-    color: rgb(75, 75, 75);
-}
-.price-11r{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 17px;
-    margin-left: 110px;
-    margin-top: 20px;
-    margin-bottom: 0px;
-}
-.button-2{
-    margin-left: 55px;
-    width: 235px;
-    margin-top: 18px;
-}
-.buy-now-2{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 15px;
-    margin-left: 85px;
-    margin-top: 11px;
-    color: white;
-    margin-bottom: 0px;
-}
-.learn-more-button{
-    background-color: rgba(0, 0, 0, 0);
-    display: inline-block;
-    position: relative;
-    left: 54px;
-    height: 35px;
-    margin-left: 10px;
-    margin-top: 18px;
-    width: 235px;
-    border: solid;
-}
-.learn-more-2{
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 15px;
-    margin-left: 78px;
-    margin-top: 9px;
-    color: rgb(0, 0, 0);
-    margin-bottom: 0px;
-}
+    margin-top: 61px;
+    margin-left: 61px;
+  }
