@@ -71,18 +71,62 @@ body {
     border-color: red;
   }
   .CE3lite{
-    background: rgb(241,241,241);
-    background: linear-gradient(0deg, rgba(241,241,241,1) 0%, rgba(243,243,243,1) 100%);
+    background: rgb(227,227,227);
+    background: linear-gradient(0deg, rgba(227,227,227,1) 0%, rgba(246,246,246,1) 100%);
     height: 650px;
   }
   .ce3title{
-    font-family: Inter;
+    font-family: 'Inter Tight', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     display: inline-block;
     margin-top: 61px;
     margin-left: 61px;
+  }
+  .ce3image{
+    width: 700px;
+    margin-top:50px;
+  }
+  .pricece3{
+    color: #939393;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 61px;
+    margin-top: 220px;
+  }
+  .offerce3{
+    color: #000;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 61px;
+    margin-top: 35px;
+  }
+  .buynow{
+    background-color: #000;
+    display: inline-block;
+    color: white;
+    margin-left: 61px;
+    height: 40px;
+    width: 160px;
+    margin-top: 10px;
+  }
+  .text_buynow{
+    margin-top: 7px;
+    margin-left: 46px;
+  }
+  .learnmorece3{
+    display: inline-block;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 14px;
+    margin-left: 42px;
+    text-decoration-line: underline;
   }
