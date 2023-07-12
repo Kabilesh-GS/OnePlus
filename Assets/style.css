@@ -52,8 +52,7 @@ body {
   .toprightnav a:hover {
     border-bottom-style:solid;
     border-color: red;
-  }
-  
+  } 
   .material-symbols-outlined{
     float: right;
     color: black;
@@ -116,7 +115,7 @@ body {
     color: white;
     margin-left: 61px;
     height: 40px;
-    width: 160px;
+    width: 150px;
     margin-top: 10px;
   }
   .text_buynow{
@@ -129,4 +128,67 @@ body {
     font-size: 14px;
     margin-left: 42px;
     text-decoration-line: underline;
+  }
+  .title11R{
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    display: inline-block;
+    margin-top: 61px;
+    margin-left: 141px;
+  }
+  .offer11r{
+    font-size: 15px;
+    margin-top: 140px;
+    color: #000;
+    font-family: 'Inter Tight', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 141px;
+  }
+  .image11R{
+    width: 720px;
+    margin-top:70px;
+    position: absolute;
+    top: 681px;
+    right: 141px;
+  }
+  .learnmore11r{
+    display: inline-block;
+    border: solid black 3px;
+    padding: 0px;
+    width: 220px;
+  }
+  .buynow11r{
+    width: 220px;
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    margin-left: 141px;
+    height: 40px;
+    margin-top: 0px;
+  }
+  .text_buynow11r{
+    margin-left: 80px;
+    margin-top: 8px;
+  }
+  .pricec11r{
+    color: #000;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 61px;
+    margin-left: 141px;
+  }
+  .textlearnmore11r{
+    margin-bottom: 5px;
+    margin-top: 7px;
+    font-family: 'Inter Tight', sans-serif;
+    margin-left: 65px;
   }
