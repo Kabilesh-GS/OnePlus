@@ -87,7 +87,9 @@ body {
   }
   .ce3image{
     width: 700px;
-    margin-top:50px;
+    position: absolute;
+    top: 101px;
+    right: 240px;
   }
   .pricece3{
     color: #939393;
