@@ -53,7 +53,7 @@ body {
     border-bottom-style:solid;
     border-color: red;
   } 
-  .material-symbols-outlined{
+  .header{
     float: right;
     color: black;
     text-align: center;
@@ -65,7 +65,7 @@ body {
     font-size: 14px;
     display: inline-block;
   }
-  .material-symbols-outlined:hover{
+  .header:hover{
     border-bottom-style:solid;
     border-color: red;
   }
@@ -193,4 +193,51 @@ body {
     margin-top: 7px;
     font-family: 'Inter Tight', sans-serif;
     margin-left: 65px;
+  }
+  .footer-pages{
+    margin-top: 61px;
+    display: grid;
+    grid-template-columns: 420px 240px 240px 240px 240px;
+  }
+  .list_title{
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    margin-bottom: 20px;
+  }
+  .content{
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: 15px;
+    color: #939393;
+  }
+  .phones-list{
+    margin-left: 141px;
+  }
+  .phones-list,
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list{
+    margin-top: 61px;
+  }
+  .card{
+    margin-top: 61px;
+  }
+  .payment{
+    margin-left: 141px;
+  }
+  .wallet,
+  .pie,
+  .bank{
+    margin-left: 18px;
+  }
+  .footer-contact{
+    display: grid;
+    grid-template-columns: 600px 300px;
+    column-gap: 500px;
+  }
+  .contact-info{
+    margin-top: 61px;
   }
