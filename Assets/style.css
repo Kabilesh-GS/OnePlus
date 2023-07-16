@@ -1,243 +1,322 @@
 body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  .topnav {
-    overflow: hidden;
-    background-color: white;
-    display: inline-block;
-  }
-  
-  .topnav a {
-    color: black;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    top: 3px;
-    left: 12px;
-    padding-bottom: 6px;
-    text-decoration: none;
-    font-size: 14px;
-    position: relative;
-  }
-  .logo{
-    width: 110px;
-    margin-left: 40px;
-    margin-top: 3px;
-  }
-  .topnav a:hover {
-    border-bottom-style:solid;
-    border-color: red;
-  }
-  .toprightnav {
-    overflow: hidden;
-    background-color: white;
-    display: inline-block;
-  }
-  .toprightnav a {
-    float: right;
-    color: black;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    top: 13px;
-    left: 12px;
-    padding-bottom: 5px;
-    text-decoration: none;
-    font-size: 14px;
-    position: relative;
-    display: inline-block;
-  }
-  .toprightnav a:hover {
-    border-bottom-style:solid;
-    border-color: red;
-  } 
-  .header{
-    float: right;
-    color: black;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 7px;
-    text-decoration: none;
-    font-size: 14px;
-    display: inline-block;
-  }
-  .header:hover{
-    border-bottom-style:solid;
-    border-color: red;
-  }
-  .CE3lite{
-    background: rgb(227,227,227);
-    background: linear-gradient(0deg, rgba(227,227,227,1) 0%, rgba(246,246,246,1) 100%);
-    height: 650px;
-  }
-  .ce3title{
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    letter-spacing: -1px;
-    display: inline-block;
-    margin-top: 61px;
-    margin-left: 61px;
-  }
-  .ce3image{
-    width: 700px;
-    position: absolute;
-    top: 101px;
-    right: 240px;
-  }
-  .pricece3{
-    color: #939393;
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 61px;
-    margin-top: 220px;
-  }
-  .offerce3{
-    color: #000;
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 61px;
-    margin-top: 35px;
-  }
-  .buynow{
-    background-color: #000;
-    display: inline-block;
-    color: white;
-    margin-left: 61px;
-    height: 40px;
-    width: 150px;
-    margin-top: 10px;
-  }
-  .text_buynow{
-    margin-top: 7px;
-    margin-left: 46px;
-  }
-  .learnmorece3{
-    display: inline-block;
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 14px;
-    margin-left: 42px;
-    text-decoration-line: underline;
-  }
-  .title11R{
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    letter-spacing: -1px;
-    display: inline-block;
-    margin-top: 61px;
-    margin-left: 141px;
-  }
-  .offer11r{
-    font-size: 15px;
-    margin-top: 140px;
-    color: #000;
-    font-family: 'Inter Tight', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 141px;
-  }
-  .image11R{
-    width: 720px;
-    margin-top:70px;
-    position: absolute;
-    top: 681px;
-    right: 141px;
-  }
-  .learnmore11r{
-    display: inline-block;
-    border: solid black 3px;
-    padding: 0px;
-    width: 220px;
-  }
-  .buynow11r{
-    width: 220px;
-    display: inline-block;
-    background-color: #000;
-    color: white;
-    margin-left: 141px;
-    height: 40px;
-    margin-top: 0px;
-  }
-  .text_buynow11r{
-    margin-left: 80px;
-    margin-top: 8px;
-  }
-  .pricec11r{
-    color: #000;
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 61px;
-    margin-left: 141px;
-  }
-  .textlearnmore11r{
-    margin-bottom: 5px;
-    margin-top: 7px;
-    font-family: 'Inter Tight', sans-serif;
-    margin-left: 65px;
-  }
-  .footer-pages{
-    margin-top: 61px;
-    display: grid;
-    grid-template-columns: 420px 240px 240px 240px 240px;
-  }
-  .list_title{
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    margin-bottom: 20px;
-  }
-  .content{
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    margin-top: 15px;
-    color: #939393;
-  }
-  .phones-list{
-    margin-left: 141px;
-  }
-  .phones-list,
-  .store-list,
-  .support-list,
-  .explore-list,
-  .program-list{
-    margin-top: 61px;
-  }
-  .card{
-    margin-top: 61px;
-  }
-  .payment{
-    margin-left: 141px;
-  }
-  .wallet,
-  .pie,
-  .bank{
-    margin-left: 18px;
-  }
-  .footer-contact{
-    display: grid;
-    grid-template-columns: 600px 300px;
-    column-gap: 500px;
-  }
-  .contact-info{
-    margin-top: 61px;
-  }
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  display: inline-block;
+}
+
+.topnav a {
+  color: black;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  top: 3px;
+  left: 12px;
+  padding-bottom: 6px;
+  text-decoration: none;
+  font-size: 14px;
+  position: relative;
+}
+.logo{
+  width: 110px;
+  margin-left: 40px;
+  margin-top: 3px;
+}
+.topnav a:hover {
+  border-bottom-style:solid;
+  border-color: red;
+}
+.toprightnav {
+  overflow: hidden;
+  background-color: white;
+  display: inline-block;
+}
+.toprightnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  top: 13px;
+  left: 12px;
+  padding-bottom: 5px;
+  text-decoration: none;
+  font-size: 14px;
+  position: relative;
+  display: inline-block;
+}
+.toprightnav a:hover {
+  border-bottom-style:solid;
+  border-color: red;
+} 
+.header{
+  float: right;
+  color: black;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 7px;
+  text-decoration: none;
+  font-size: 14px;
+  display: inline-block;
+}
+.header:hover{
+  border-bottom-style:solid;
+  border-color: red;
+}
+.CE3lite-contain{
+  background: rgb(227,227,227);
+  background: linear-gradient(0deg, rgba(227,227,227,1) 0%, rgba(246,246,246,1) 100%);
+  height: 650px;
+}
+.content-ce3lite{
+  display: flex;
+  justify-content: center;
+  gap: 300px;
+}
+.ce3title{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+  display: inline-block;
+  margin-top: 61px;
+}
+.ce3image{
+  width: 700px;
+  display: inline-block;
+  margin-top: 50px;
+}
+.pricece3{
+  color: #939393;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 220px;
+}
+.offerce3{
+  color: #000;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 35px;
+}
+.buynow{
+  background-color: #000;
+  display: inline-block;
+  color: white;
+  height: 40px;
+  width: 150px;
+  margin-top: 10px;
+}
+.text_buynow{
+  margin-top: 7px;
+  margin-left: 46px;
+}
+.learnmorece3{
+  display: inline-block;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 14px;
+  margin-left: 42px;
+  text-decoration-line: underline;
+}
+.title11R{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+  display: inline-block;
+  margin-top: 61px;
+}
+.offer11r{
+  font-size: 15px;
+  margin-top: 178px;
+  color: #000;
+  font-family: 'Inter Tight', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.content-11r{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.about-11r{
+  margin: 0px;
+}
+.image11R{
+  width: 720px;
+  margin-top:70px;
+}
+.learnmore11r{
+  display: inline-block;
+  border: solid black 3px;
+  padding: 0px;
+  width: 220px;
+}
+.buynow11r{
+  width: 220px;
+  display: inline-block;
+  background-color: #000;
+  color: white;
+
+  height: 40px;
+  margin-top: 0px;
+}
+.text_buynow11r{
+  margin-left: 80px;
+  margin-top: 8px;
+}
+.pricec11r{
+  color: #000;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.textlearnmore11r{
+  margin-bottom: 5px;
+  margin-top: 7px;
+  font-family: 'Inter Tight', sans-serif;
+  margin-left: 65px;
+}
+.footer-pages{
+  display: flex;
+  grid-template-columns: 420px 240px 240px 240px 240px;
+  justify-content: center;
+  gap: 85px;
+}
+.list_title{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+.content{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 15px;
+  color: #939393;
+}
+.phones-list,
+.store-list,
+.support-list,
+.explore-list,
+.program-list{
+  margin-top: 61px;
+}
+.payment{
+  display: flex;
+  margin-top: 61px;
+}
+.wallet,
+.pie,
+.bank{
+  margin-left: 18px;
+}
+.footer-contact{
+  display: flex;
+  grid-template-columns: 600px 300px;
+  column-gap: 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 300px;
+}
+.contact-info{
+  margin-top: 79px;
+}
+.two-product-container{
+  margin-top: 61px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.TVQ2{
+  width: 570px;
+  height: 350px;
+  background-color: #F8F8F8;
+}
+.about-tvq2,
+.about-nordbuds{
+  display: inline-block;
+}
+.title-tvq2,
+.title-nordbuds{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+  margin-top: 15px;
+}
+.offer-tvq2{
+  font-size: 13px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  margin-bottom: 10px;
+  margin-top: 90px;
+}
+.price-tvq2,
+.price-nordbuds{
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+.buynowtvq2,
+.buynownordbuds{
+  background-color: #000;
+  color: white;
+  height: 37px;
+  width: 130px;
+  font-family: 'Inter Tight', sans-serif;
+}
+.learnmoretvq2,
+.learnmorenordbuds{
+  height: 37px;
+  width: 130px;
+  background-color: #F8F8F8;
+  font-family: 'Inter Tight', sans-serif;
+}
+.imagetvq2,
+.imagenordbuds{
+  width: 280px;
+}
+.image-cont-tvq2,
+.image-cont-nordbuds{
+  width: 280px;
+}
+.TVQ2,
+.nordbuds{
+  display: flex;
+  justify-content: center;
+}
+.nordbuds{
+  width: 570px;
+  height: 350px;
+  background-color: #F8F8F8;
+}
+.offer-nordbuds{
+  font-size: 13px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  margin-bottom: 10px;
+  margin-top: 130px;
+}
