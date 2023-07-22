@@ -321,18 +321,106 @@ body {
   margin-top: 130px;
 }
 .This_week{
-  background-color: burlywood;
-  height: 300px;
+  background-color: rgb(255, 255, 255);
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 61px;
 }
-.this_week_title{
+.hot_picks{
   font-family: 'Inter Tight', sans-serif; 
-  font-size: 17px;
+  font-size: 20px;
+  margin: 0px;
 }
 .this_week_line{
+  background-color: #00000021;
+  height: 2px;
+  width: 1192px;
+}
+.empty_div_1,
+.empty_div_2{
+  background-color: #00000000;
+  height: 10px;
+  width: 200px;
+}
+.this_week_title{
+  display: flex;
+  gap: 800px;
+  margin-bottom: 5px;
+}
+.this_week_list_items{
+  display: flex;
+  gap: 35px;
+}
+.this_week_list_items a{
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
+}
+.this_week_list{
+  display: flex;
+  gap: 303px;
+  margin-top: 20px;
+}
+.this_week_product{
+  display: flex;
+  gap:  10px;
+  margin-top: 50px;
+}
+.main_contain{
+  background-color: rgb(255, 255, 255);
+  height: 470px;
+  width: 290px;
+}
+.image_contain{
+  background-color: #F8F8F8;
+  width: 290px;
+  height: 260px;
+}
+.this_week_11r_img,
+.this_week_ce3_img,
+.this_week_tvy_img,
+.this_week_pad_img{
+  width: 260px;
+  margin-left: 15px;
+}
+.this_week_11r_title,
+.this_week_pad_title,
+.this_week_ce3lte_title,
+.this_week_tvy_title{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 23px;
+  margin-bottom: 4px;
+  margin-top: 15px;
+  line-height: normal;
+}
+.this_week_11r_des,
+.this_week_pad_des,
+.this_week_ce3lte_des,
+.this_week_tvy_des{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.this_week_tvy_offer{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 14px;
+  color: red;
+  margin-bottom: 15px;
+}
+.price_button{
+  width: 290px;
+  border: none;
+  height: 47px;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 16px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: #ffffff;
+}
+.price_button :hover{
   background-color: #000;
-  height: 1px;
-  width: 1195px;
+  color: aqua;
 }
