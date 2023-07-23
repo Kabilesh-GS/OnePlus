@@ -202,11 +202,28 @@
         height: auto;
         display: flex;
         margin-left: 10px;
+        margin-right: 10px;
     }
     .this_week_list_items a{
         text-decoration: none;
         color: #000;
         font-size: 15px;
         width: 95px;
+    }
+    .this_week_11r,
+    .this_week_ce3lte,
+    .this_week_tvy,
+    .this_week_pad{
+        width: 100%;
+        height: auto;
+    }
+    .main_contain{
+        width: 100%;
+        height: auto;
+    }
+    .this_week_product{
+        width: 100%;
+        height: auto;
+        overflow-x: auto;
     }
 }
