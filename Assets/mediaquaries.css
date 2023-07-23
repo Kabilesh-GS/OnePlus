@@ -1,0 +1,212 @@
+@media only screen and (max-width: 600px) {
+    .nav-contai{
+        width:100%;
+        justify-content: center;
+    }
+    .topnav a,
+    .toprightnav{
+        display: none;
+    }
+    .CE3lite-contain,
+    .one11R-contain{
+        width: 100%;
+        height: auto;
+    }
+    .content-ce3lite,
+    .content-11r{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 0px;
+    }
+    .ce3title,
+    .title11R{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 20px;
+    }
+    .pricece3{
+        color: #939393;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 10px;
+      }
+    .offerce3,
+    .pricec11r{
+        color: #000;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 15px;
+      }
+    .buynow{
+        background-color: #000;
+        display: inline-block;
+        color: white;
+        height: 30px;
+        width: 100px;
+        margin-top: 10px;
+      }
+    .text_buynow{
+        margin-top: 3px;
+        margin-left: 21px;
+        font-size: 15px;
+      }
+    .learnmorece3{
+        display: inline-block;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 15px;
+        margin-left: 22px;
+        text-decoration-line: underline;
+      }
+    .offer11r{
+        font-size: 15px;
+        margin-top: 15px;
+        color: #000;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+    .image11R,
+    .ce3imag{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 10px;
+    }
+    .textlearnmore11r{
+        margin-bottom: 0;
+        margin-top: 7px;
+        font-family: 'Inter Tight', sans-serif;
+        margin-left: 20px;
+        font-size: 15px;
+    }
+    .learnmore11r{
+        display: inline-block;
+        border: solid black 3px;
+        padding: 0px;
+        width: 120px;
+        height: 40px;
+    }
+    .buynow11r{
+        width: 120px;
+        display: inline-block;
+        background-color: #000;
+        color: white;
+        height: 40px;
+        margin-top: 0px;
+    }
+    .text_buynow11r{
+        margin-left: 32px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .two-product-container{
+        margin-top: 31px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .TVQ2,
+    .nordbuds{
+        width: 100%;
+        height: auto;
+        background-color: #F8F8F8;
+        display: flex;
+        justify-content: center;
+    }
+    .title-tvq2,
+    .title-nordbuds{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    .offer-tvq2,
+    .offer-nordbuds{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .price-tvq2,
+    .price-nordbuds{
+      font-family: 'Inter Tight', sans-serif;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+    .imagetvq2,
+    .imagenordbuds{
+      width: 100%;
+      height: auto;
+    }
+    .buynowtvq2,
+    .buynownordbuds{
+      background-color: #000;
+      color: white;
+      height: 30px;
+      width: 70px;
+      font-family: 'Inter Tight', sans-serif;
+      font-size: 10px;
+      margin-left: 10px;
+    }
+    .learnmoretvq2,
+    .learnmorenordbuds{
+      height: 30px;
+      width: 70px;
+      background-color: #F8F8F8;
+      font-family: 'Inter Tight', sans-serif;
+      font-size: 10px;
+    }
+    .This_week{
+        width: 100%;
+        height: auto;
+    }
+    .empty_div_1{
+        display: none;
+    }
+    .this_week_line{
+        width: 100%;
+        align-self: center;
+    }
+    .this_week_list_items{
+        border-collapse: collapse;
+        gap: 10px;
+    }
+    .this_week_list{
+        overflow-x: auto;
+        gap: 303px;
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        margin-left: 10px;
+    }
+    .this_week_list_items a{
+        text-decoration: none;
+        color: #000;
+        font-size: 15px;
+        width: 95px;
+    }
+}
