@@ -213,10 +213,8 @@
     .this_week_11r,
     .this_week_ce3lte,
     .this_week_tvy,
-    .this_week_pad{
-        width: 100%;
-        height: auto;
-    }
+    .this_week_pad,
+    .footer-pages,
     .main_contain{
         width: 100%;
         height: auto;
@@ -225,5 +223,25 @@
         width: 100%;
         height: auto;
         overflow-x: auto;
+    }
+    .footer-pages,
+    .footer-contact{
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+    }
+    .content{
+        display: none;
+    }
+    .phones-list,
+    .payment{
+        margin-top: 30px;
+    }
+    .store-list,
+    .support-list,
+    .explore-list,
+    .program-list,
+    .contact-info{
+        margin-top: 10px;
     }
 }
