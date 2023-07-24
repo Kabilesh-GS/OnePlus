@@ -6,5 +6,3 @@ LINK :<br>
 
 SCREENSHOT :<br>
 ![page 1](https://github.com/Kabilesh-GS/OnePlus/assets/115616421/87764a59-f5f0-4fec-95c5-19eedd90cb0b)
-Mobile Page:
-<img src="C:\Users\Kabil\OneDrive\Pictures\Screenshots\Screenshot_2023-07-24-23-28-18-04_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" alt="Mobile Page" title="Optional title">
