@@ -6,5 +6,5 @@ LINK :<br>
 
 SCREENSHOT :<br>
 ![page 1](https://github.com/Kabilesh-GS/OnePlus/assets/115616421/87764a59-f5f0-4fec-95c5-19eedd90cb0b)
-![Mobile Page](https://github.com/Kabilesh-GS/OnePlus/assets/115616421/596d9552-460a-41eb-a031-cb09c9f64f26 | width=100)
 
+<img src="https://github.com/Kabilesh-GS/OnePlus/assets/115616421/596d9552-460a-41eb-a031-cb09c9f64f26)https://github.com/Kabilesh-GS/OnePlus/assets/115616421/596d9552-460a-41eb-a031-cb09c9f64f26" width="100">
