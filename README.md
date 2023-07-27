@@ -1,5 +1,5 @@
 # OnePlus
-A clone of the OnePlus website
+This is my first project where I make a clone of the OnePlus website.
 
 LINK :<br>
 <a href="https://kabilesh-gs.github.io/OnePlus/">Click Here</a> to view the page!!<br>
