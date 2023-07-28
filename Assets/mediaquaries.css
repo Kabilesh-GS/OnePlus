@@ -799,3 +799,608 @@
         margin-left: 15px;
     }
 }
+@media only screen and (min-width: 992px) {
+    .nav-contai{
+        width:100%;
+        justify-content: center;
+    }
+    .topnav a{
+        display: none; 
+    }
+    .toprightnav{
+        display: flex;
+        margin-top: 0px;
+    }
+    .CE3lite-contain{
+        width: 100%;
+        height: auto;
+    }
+    .one11R-contain{
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+    }
+    .content-ce3lite{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 0px;
+    }
+    .content-11r{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+    }
+    .about-ce3lite{
+        width: 300px;
+        margin-left: 20px;
+    }
+    .ce3title,
+    .title11R{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 20px;
+    }
+    .pricece3{
+        color: #939393;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 100px;
+      }
+    .offerce3,
+    .pricec11r{
+        color: #000;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 15px;
+      }
+    .buynow{
+        background-color: #000;
+        display: inline-block;
+        color: white;
+        height: 30px;
+        width: 120px;
+        margin-top: 10px;
+      }
+    .text_buynow{
+        margin-top: 1px;
+        margin-left: 28px;
+        font-size: 17px;
+      }
+    .learnmorece3{
+        display: inline-block;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 17px;
+        margin-left: 15px;
+        text-decoration-line: underline;
+      }
+    .offer11r{
+        font-size: 18px;
+        margin-top: 25px;
+        color: #000;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #939393;
+      }
+      .about-11r{
+        margin-left: 20px;
+      }
+    .image11R{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 30px;
+    }
+    .ce3imag{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 25px;
+    }
+    .textlearnmore11r{
+        margin-bottom: 0;
+        margin-top: 7px;
+        font-family: 'Inter Tight', sans-serif;
+        margin-left: 20px;
+        font-size: 15px;
+    }
+    .learnmore11r{
+        display: inline-block;
+        border: solid black 3px;
+        padding: 0px;
+        width: 120px;
+        height: 40px;
+    }
+    .buynow11r{
+        width: 120px;
+        display: inline-block;
+        background-color: #000;
+        color: white;
+        height: 40px;
+        margin-top: 0px;
+    }
+    .text_buynow11r{
+        margin-left: 32px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .two-product-container{
+        margin-top: 41px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    .TVQ2{
+        background-color: #F8F8F8;
+        display: flex;
+        justify-content: center;
+        width: 590px;
+    }
+    .nordbuds{
+        background-color: #F8F8F8;
+        display: flex;
+        justify-content: center;
+        width: 590px;
+    }
+    .about-tvq2,
+    .about-nordbuds{
+        margin-left: 20px;
+    }
+    .title-tvq2,
+    .title-nordbuds{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .offer-tvq2{
+        font-size: 18px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .offer-nordbuds{
+        font-size: 18px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 68px;
+    }
+    .price-tvq2,
+    .price-nordbuds{
+      font-family: 'Inter Tight', sans-serif;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+    .imagetvq2,
+    .imagenordbuds{
+      width: 100%;
+      height: auto;
+    }
+    .buynowtvq2,
+    .buynownordbuds{
+      background-color: #000;
+      color: white;
+      height: 30px;
+      width: 110px;
+      font-family: 'Inter Tight', sans-serif;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .learnmoretvq2,
+    .learnmorenordbuds{
+      height: 30px;
+      width: 110px;
+      background-color: #F8F8F8;
+      font-family: 'Inter Tight', sans-serif;
+      font-size: 14px;
+    }
+    .This_week{
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+    }
+    .empty_div_1{
+        display: none;
+    }
+    .this_week_line{
+        width: 100%;
+        align-self: center;
+    }
+    .this_week_list_items{
+        border-collapse: collapse;
+        gap: 0px;
+        justify-content: center;
+    }
+    .this_week_list{
+        gap: 0px;
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        margin-left: 10px;
+        margin-right: 10px;
+        justify-content: center;
+    }
+    .empty_div_2{
+        display: none;
+    }
+    .this_week_list_items a{
+        text-decoration: none;
+        color: #000;
+        font-size: 15px;
+        width: 95px;
+    }
+    .main_contain{
+        height: 470px;
+        width: 290px;
+        margin-right: 0px;
+    }
+    .this_week_product{
+        overflow-x: auto;
+    }
+    .footer-pages{
+        display: flex;
+        flex-direction: row;
+        gap: 7px;
+    }
+    .footer-contact{
+        display: flex;
+        flex-direction: row;
+        gap: 150px;
+    }
+    .content{
+        display:block;
+    }
+    .contact-info{
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .payment{
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .phones-list,
+    .store-list,
+    .support-list,
+    .explore-list,
+    .program-list{
+        margin-top: 40px;
+        margin-left: 15px;
+
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .nav-contai{
+        width:100%;
+        justify-content: center;
+    }
+    .topnav a{
+        display: flex; 
+    }
+    .toprightnav{
+        display: flex;
+        margin-top: 0px;
+    }
+    .CE3lite-contain{
+        width: 100%;
+        height: auto;
+    }
+    .one11R-contain{
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+    }
+    .content-ce3lite{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 80px;
+    }
+    .content-11r{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 30px;
+    }
+    .about-ce3lite{
+        width: 530px;
+        margin-left: 20px;
+    }
+    .about-11r{
+        margin-left: 20px;
+        width: 500px;
+        margin-top: 10px;
+      }
+    .ce3title,
+    .title11R{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 20px;
+    }
+    .pricece3{
+        color: #939393;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 170px;
+      }
+    .offerce3,
+    .pricec11r{
+        color: #000;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 15px;
+      }
+    .buynow{
+        background-color: #000;
+        display: inline-block;
+        color: white;
+        height: 50px;
+        width: 160px;
+        margin-top: 10px;
+      }
+    .text_buynow{
+        margin-top: 7px;
+        margin-left: 38px;
+        font-size: 22px;
+      }
+    .learnmorece3{
+        display: inline-block;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 22px;
+        margin-left: 15px;
+        text-decoration-line: underline;
+      }
+    .offer11r{
+        font-size: 20px;
+        margin-top: 110px;
+        color: #000;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #939393;
+      }
+    .image11R{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 30px;
+    }
+    .ce3imag{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 25px;
+    }
+    .textlearnmore11r{
+        margin-bottom: 0;
+        margin-left: 34px;
+        margin-top: 7px;
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 22px;
+    }
+    .learnmore11r{
+        display: inline-block;
+        border: solid black 3px;
+        padding: 0px;
+        width: 180px;
+        height: 50px;
+    }
+    .buynow11r{
+        width: 180px;
+        display: inline-block;
+        background-color: #000;
+        color: white;
+        height: 50px;
+        margin-top: 0px;
+    }
+    .text_buynow11r{
+        margin-left: 45px;
+        margin-top: 7px;
+        font-size: 22px;
+    }
+    .two-product-container{
+        margin-top: 41px;
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        margin-left: 10px;
+        margin-right: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    .TVQ2{
+        background-color: #F8F8F8;
+        display: flex;
+        justify-content: center;
+        width: 590px;
+    }
+    .nordbuds{
+        background-color: #F8F8F8;
+        display: flex;
+        justify-content: center;
+        width: 590px;
+    }
+    .about-tvq2,
+    .about-nordbuds{
+        margin-left: 20px;
+    }
+    .title-tvq2,
+    .title-nordbuds{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .offer-tvq2{
+        font-size: 19px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .offer-nordbuds{
+        font-size: 19px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 75px;
+    }
+    .price-tvq2,
+    .price-nordbuds{
+      font-family: 'Inter Tight', sans-serif;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 10px;
+      font-size: 19px;
+    }
+    .imagetvq2,
+    .imagenordbuds{
+      width: 100%;
+      height: auto;
+      margin-top: 40px;
+    }
+    .buynowtvq2,
+    .buynownordbuds{
+      background-color: #000;
+      color: white;
+      height: 45px;
+      width: 150px;
+      font-family: 'Inter Tight', sans-serif;
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+    .learnmoretvq2,
+    .learnmorenordbuds{
+      height: 45px;
+      width: 150px;
+      background-color: #F8F8F8;
+      font-family: 'Inter Tight', sans-serif;
+      font-size: 22px;
+    }
+    .This_week{
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+    }
+    .hot_picks{
+        font-size: 20px;
+        font-family: 'Inter Tight', sans-serif;
+    }
+    .empty_div_1{
+        display: none;
+    }
+    .this_week_line{
+        width: 100%;
+        align-self: center;
+    }
+    .this_week_list_items{
+        gap: 0px;
+        justify-content: center;
+    }
+    .this_week_list{
+        gap: 0px;
+        margin-top: 10px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        margin-left: 10px;
+        margin-right: 10px;
+        justify-content: center;
+    }
+    .empty_div_2{
+        display: none;
+    }
+    .this_week_list_items a{
+        text-decoration: none;
+        color: #000;
+        font-size: 20px;
+        width: 140px;
+        font-family: 'Inter Tight', sans-serif;
+    }
+    .this_week_product{
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        margin-top: 50px;
+        justify-content: center;
+        align-items: center;
+        width: 1400px;
+      }
+      .this_week_11r,
+      .this_week_ce3lte,
+      .this_week_tvy,
+      .this_week_pad{
+        width: 290px;
+      }
+    .main_contain{
+        background-color: rgb(255, 255, 255);
+        height: 470px;
+        width: 290px;
+    }
+    .footer-pages{
+        display: flex;
+        flex-direction: row;
+        gap: 67px;
+    }
+    .footer-contact{
+        display: flex;
+        flex-direction: row;
+        gap: 150px;
+    }
+    .content{
+        display:block;
+    }
+    .contact-info{
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .payment{
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .phones-list,
+    .store-list,
+    .support-list,
+    .explore-list,
+    .program-list{
+        margin-top: 40px;
+    }
+}
