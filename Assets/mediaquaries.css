@@ -8,17 +8,25 @@
         display: none;
     }
     .CE3lite-contain,
-    .one11R-contain{
+    .one11R-contain,
+    .OnePlus-Ensemble{
         width: 100%;
         height: auto;
     }
     .content-ce3lite,
-    .content-11r{
+    .content-11r,
+    .content-ensemble{
         display: flex;
         flex-direction: column;
         margin-left: 10px;
         margin-right: 10px;
         gap: 0px;
+    }
+    .learnmoreensemble,
+    .buynowensemble{
+        width: 110px;
+        height: 40px;
+        font-size: 14px;
     }
     .ce3title,
     .title11R{
@@ -30,6 +38,15 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
+    .title2ensemble{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
+    }
     .pricece3{
         color: #939393;
         font-family: 'Inter Tight', sans-serif;
@@ -40,8 +57,8 @@
         margin-top: 10px;
       }
     .offerce3,
-    .pricec11r{
-        color: #000;
+    .pricec11r,
+    .priceensemble{
         font-family: 'Inter Tight', sans-serif;
         font-size: 15px;
         font-style: normal;
@@ -72,14 +89,23 @@
     .offer11r{
         font-size: 15px;
         margin-top: 15px;
-        color: #000;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
+    }
+    .offerensemble{
+        font-size: 15px;
+        margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: white;
       }
     .image11R,
-    .ce3imag{
+    .ce3imag,
+    .imageensemble{
         max-width: 100%; 
         height: auto; 
         margin-top: 10px;
@@ -257,7 +283,8 @@
         display: none;
     }
     .CE3lite-contain,
-    .one11R-contain{
+    .one11R-contain,
+    .OnePlus-Ensemble{
         width: 100%;
         height: auto;
     }
@@ -268,7 +295,8 @@
         margin-right: 10px;
         gap: 0px;
     }
-    .content-11r{
+    .content-11r,
+    .content-ensemble{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -288,6 +316,15 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
+    .title2ensemble{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
+    }
     .pricece3{
         color: #939393;
         font-family: 'Inter Tight', sans-serif;
@@ -297,9 +334,15 @@
         line-height: normal;
         margin-top: 10px;
       }
+    .learnmoreensemble,
+    .buynowensemble{
+        width: 130px;
+        height: 40px;
+        font-size: 16px;
+    }
     .offerce3,
-    .pricec11r{
-        color: #000;
+    .pricec11r,
+    .priceensemble{
         font-family: 'Inter Tight', sans-serif;
         font-size: 15px;
         font-style: normal;
@@ -330,14 +373,23 @@
     .offer11r{
         font-size: 15px;
         margin-top: 15px;
-        color: #000;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         color: #939393;
+    }
+    .offerensemble{
+        font-size: 15px;
+        margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
-    .image11R{
+    .image11R,
+    .imageensemble{
         max-width: 100%; 
         height: auto; 
         margin-top: 90px;
@@ -530,7 +582,8 @@
         width: 100%;
         height: auto;
     }
-    .one11R-contain{
+    .one11R-contain,
+    .OnePlus-Ensemble{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -542,7 +595,8 @@
         margin-right: 10px;
         gap: 0px;
     }
-    .content-11r{
+    .content-11r,
+    .content-ensemble{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -563,6 +617,15 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
+    .title2ensemble{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
+    }
     .pricece3{
         color: #939393;
         font-family: 'Inter Tight', sans-serif;
@@ -573,8 +636,8 @@
         margin-top: 120px;
       }
     .offerce3,
-    .pricec11r{
-        color: #000;
+    .pricec11r,
+    .priceensemble{
         font-family: 'Inter Tight', sans-serif;
         font-size: 20px;
         font-style: normal;
@@ -582,6 +645,10 @@
         line-height: normal;
         margin-top: 15px;
       }
+    .learnmoreensemble,
+    .buynowensemble{
+        width: 190px;
+    }
     .buynow{
         background-color: #000;
         display: inline-block;
@@ -605,17 +672,27 @@
     .offer11r{
         font-size: 18px;
         margin-top: 15px;
-        color: #000;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         color: #939393;
+    }
+    .offerensemble{
+        font-size: 18px;
+        margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
-      .about-11r{
+      .about-11r,
+      .about-ensemble{
         margin-left: 20px;
       }
-    .image11R{
+    .image11R,
+    .imageensemble{
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
@@ -815,7 +892,8 @@
         width: 100%;
         height: auto;
     }
-    .one11R-contain{
+    .one11R-contain,
+    .OnePlus-Ensemble{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -827,7 +905,8 @@
         margin-right: 10px;
         gap: 0px;
     }
-    .content-11r{
+    .content-11r,
+    .content-ensemble{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -848,6 +927,15 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
+    .title2ensemble{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
+    }
     .pricece3{
         color: #939393;
         font-family: 'Inter Tight', sans-serif;
@@ -858,8 +946,8 @@
         margin-top: 100px;
       }
     .offerce3,
-    .pricec11r{
-        color: #000;
+    .pricec11r,
+    .priceensemble{
         font-family: 'Inter Tight', sans-serif;
         font-size: 22px;
         font-style: normal;
@@ -890,17 +978,26 @@
     .offer11r{
         font-size: 18px;
         margin-top: 25px;
-        color: #000;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         color: #939393;
+    }
+    .offerensemble{
+        font-size: 18px;
+        margin-top: 25px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
       .about-11r{
         margin-left: 20px;
       }
-    .image11R{
+    .image11R,
+    .imageensemble{
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
@@ -1109,7 +1206,8 @@
         width: 100%;
         height: auto;
     }
-    .one11R-contain{
+    .one11R-contain,
+    .OnePlus-Ensemble{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -1121,7 +1219,8 @@
         margin-right: 10px;
         gap: 80px;
     }
-    .content-11r{
+    .content-11r,
+    .content-ensemble{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -1132,7 +1231,8 @@
         width: 530px;
         margin-left: 20px;
     }
-    .about-11r{
+    .about-11r,
+    .about-ensemble{
         margin-left: 20px;
         width: 500px;
         margin-top: 10px;
@@ -1147,6 +1247,15 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
+    .title2ensemble{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
+    }
     .pricece3{
         color: #939393;
         font-family: 'Inter Tight', sans-serif;
@@ -1157,8 +1266,8 @@
         margin-top: 170px;
       }
     .offerce3,
-    .pricec11r{
-        color: #000;
+    .pricec11r,
+    .priceensemble{
         font-family: 'Inter Tight', sans-serif;
         font-size: 20px;
         font-style: normal;
@@ -1189,14 +1298,23 @@
     .offer11r{
         font-size: 20px;
         margin-top: 110px;
-        color: #000;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
-        color: #939393;
+        color: #ffffff;
+    }
+    .offerensemble{
+        font-size: 20px;
+        margin-top: 135px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
-    .image11R{
+    .image11R,
+    .imageensemble{
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;

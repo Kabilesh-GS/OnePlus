@@ -121,6 +121,15 @@ body {
   margin-left: 42px;
   text-decoration-line: underline;
 }
+.title1ensemble{
+  margin-bottom: 0px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  letter-spacing: -1px;
+  font-size: 22px;
+  color: white;
+  margin-top: 15px;
+}
 .title11R{
   font-family: 'Inter Tight', sans-serif;
   font-size: 40px;
@@ -131,6 +140,17 @@ body {
   display: inline-block;
   margin-top: 61px;
 }
+.title2ensemble{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+  display: inline-block;
+  margin-top: 61px;
+  color: white;
+}
 .offer11r{
   font-size: 15px;
   margin-top: 148px;
@@ -140,15 +160,27 @@ body {
   font-weight: 400;
   line-height: normal;
 }
-.content-11r{
+.offerensemble{
+  font-size: 15px;
+  margin-top: 148px;
+  color: #ffffff;
+  font-family: 'Inter Tight', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.content-11r,
+.content-ensemble{
   display: flex;
   justify-content: center;
   gap: 30px;
 }
-.about-11r{
+.about-11r,
+.about-ensemble{
   margin: 0px;
 }
-.image11R{
+.image11R,
+.imageensemble{
   width: 720px;
   margin-top:70px;
 }
@@ -170,6 +202,17 @@ body {
 .text_buynow11r{
   margin-left: 80px;
   margin-top: 8px;
+}
+.priceensemble{
+  color: #ffffff;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.oneplus-more-back-contain{
+  background-color: #000;
 }
 .pricec11r{
   color: #000;
@@ -399,6 +442,29 @@ body {
   color: red;
   margin-bottom: 15px;
 }
+.buynowensemble{
+  width: 230px;
+  border: none;
+  height: 47px;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 20px;
+  justify-content: start;
+  align-items: center;
+  background-color: #ffffff;
+}
+.learnmoreensemble{
+  width: 230px;
+  border: none;
+  height: 47px;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 20px;
+  color: white;
+  justify-content: start;
+  align-items: center;
+  background-color: black;
+  border: solid;
+  border-color: white;
+}
 .price_button{
   width: 290px;
   border: none;
@@ -409,8 +475,4 @@ body {
   justify-content: start;
   align-items: center;
   background-color: #ffffff;
-}
-.price_button :hover{
-  background-color: #000;
-  color: aqua;
 }
