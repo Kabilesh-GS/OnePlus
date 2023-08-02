@@ -366,16 +366,45 @@ body {
   font-size: 20px;
   margin: 0px;
 }
+.oneplus-featuring{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Fearuring-titl{
+  font-family: 'Inter Tight', sans-serif; 
+  font-size: 20px;
+  margin: 0px;
+  color: white;
+}
 .this_week_line{
   background-color: #00000021;
   height: 2px;
   width: 1192px;
+}
+.fearuring_line{
+  background-color: #ffffff;
+  height: 1px;
+  width: 1232px;
 }
 .empty_div_1,
 .empty_div_2{
   background-color: #00000000;
   height: 10px;
   width: 200px;
+}
+.empty_div_3{
+  background-color: #00000000;
+  height: 10px;
+  width: 200px;
+}
+.featuring_title{
+  display: flex;
+  gap: 870px;
+  margin-bottom: 5px;
+  justify-content: start;
 }
 .this_week_title{
   display: flex;
@@ -475,4 +504,91 @@ body {
   justify-content: start;
   align-items: center;
   background-color: #ffffff;
+}
+
+/*keyboard 81pro CSS*/
+.ke81-header{
+  color: white;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+}
+.offereke81{
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Inter Tight', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 170px;
+}
+.image-ke81{
+  width: 720px;
+}
+.title1ke81{
+  margin-bottom: 0px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  letter-spacing: -1px;
+  font-size: 22px;
+  color: white;
+  margin-top: 15px;
+}
+.title2ke81{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+  color: white;
+}
+.content-ke81{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.ke81-header{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.notifyke81{
+  color: white;
+  text-decoration: underline;
+  font-size: 16px;
+}
+
+/*Onetopia headder css*/
+.topia-contain{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.topia-titl{
+  font-family: 'Inter Tight', sans-serif; 
+  font-size: 20px;
+  margin: 0px;
+  color: white;
+}
+.topia_line{
+  background-color: #ffffff;
+  height: 1px;
+  width: 1232px;
+}
+.empty_div_4{
+  background-color: #00000000;
+  height: 10px;
+  width: 200px;
+}
+.topia_title{
+  display: flex;
+  gap: 870px;
+  margin-bottom: 5px;
+  justify-content: start;
 }

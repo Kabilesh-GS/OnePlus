@@ -9,13 +9,15 @@
     }
     .CE3lite-contain,
     .one11R-contain,
-    .OnePlus-Ensemble{
+    .OnePlus-Ensemble,
+    .keyyboard81{
         width: 100%;
         height: auto;
     }
     .content-ce3lite,
     .content-11r,
-    .content-ensemble{
+    .content-ensemble,
+    .content-ke81{
         display: flex;
         flex-direction: column;
         margin-left: 10px;
@@ -28,6 +30,9 @@
         height: 40px;
         font-size: 14px;
     }
+    .ke81-header-text{
+        font-size: 26px;
+    }
     .ce3title,
     .title11R{
         font-family: 'Inter Tight', sans-serif;
@@ -37,6 +42,18 @@
         line-height: normal;
         letter-spacing: -1px;
         margin-top: 20px;
+    }
+    .title1ke81{
+        font-size: 20px;
+    }
+    .title2ke81{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
     }
     .title2ensemble{
         font-family: 'Inter Tight', sans-serif;
@@ -94,6 +111,15 @@
         font-weight: 400;
         line-height: normal;
     }
+    .offereke81{
+        font-size: 15px;
+        margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: white;
+    }
     .offerensemble{
         font-size: 15px;
         margin-top: 15px;
@@ -105,7 +131,8 @@
       }
     .image11R,
     .ce3imag,
-    .imageensemble{
+    .imageensemble,
+    .image-ke81{
         max-width: 100%; 
         height: auto; 
         margin-top: 10px;
@@ -209,11 +236,19 @@
         width: 100%;
         height: auto;
     }
-    .empty_div_1{
+    .empty_div_1,
+    .empty_div_3,
+    .empty_div_4{
         display: none;
     }
+    .Fearuring-titl,
+    .topia-titl{
+        font-size: 14px;
+    }
+    .fearuring_line,
+    .topia_line,
     .this_week_line{
-        width: 100%;
+        width: 290px;
         align-self: center;
     }
     .this_week_list_items{
@@ -284,7 +319,8 @@
     }
     .CE3lite-contain,
     .one11R-contain,
-    .OnePlus-Ensemble{
+    .OnePlus-Ensemble,
+    .keyyboard81{
         width: 100%;
         height: auto;
     }
@@ -296,7 +332,8 @@
         gap: 0px;
     }
     .content-11r,
-    .content-ensemble{
+    .content-ensemble,
+    .content-ke81{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -315,6 +352,18 @@
         line-height: normal;
         letter-spacing: -1px;
         margin-top: 20px;
+    }
+    .ke81-header-text{
+        font-size: 30px;
+    }
+    .title2ke81{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
     }
     .title2ensemble{
         font-family: 'Inter Tight', sans-serif;
@@ -379,6 +428,15 @@
         line-height: normal;
         color: #939393;
     }
+    .offereke81{
+        font-size: 12px;
+        margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
+    }
     .offerensemble{
         font-size: 15px;
         margin-top: 15px;
@@ -393,6 +451,10 @@
         max-width: 100%; 
         height: auto; 
         margin-top: 90px;
+    }
+    .image-ke81{
+        max-width: 100%; 
+        height: auto; 
     }
     .ce3imag{
         max-width: 100%; 
@@ -505,11 +567,19 @@
         width: 100%;
         height: auto;
     }
-    .empty_div_1{
+    .Fearuring-titl,
+    .topia-titl{
+        font-size: 16px;
+    }
+    .empty_div_1,
+    .empty_div_3,
+    .empty_div_4{
         display: none;
     }
+    .fearuring_line,
+    .topia_line,
     .this_week_line{
-        width: 100%;
+        width: 432px;
         align-self: center;
     }
     .this_week_list_items{
@@ -583,7 +653,8 @@
         height: auto;
     }
     .one11R-contain,
-    .OnePlus-Ensemble{
+    .OnePlus-Ensemble,
+    .keyyboard81{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -596,7 +667,8 @@
         gap: 0px;
     }
     .content-11r,
-    .content-ensemble{
+    .content-ensemble,
+    .content-ke81{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -606,6 +678,9 @@
     .about-ce3lite{
         width: 300px;
         margin-left: 20px;
+    }
+    .ke81-header-text{
+        font-size: 34px;
     }
     .ce3title,
     .title11R{
@@ -620,6 +695,18 @@
     .title2ensemble{
         font-family: 'Inter Tight', sans-serif;
         font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
+    }
+    .title1ke81{
+        font-size: 19px;
+    }
+    .title2ke81{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 29px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -679,7 +766,7 @@
         color: #939393;
     }
     .offerensemble{
-        font-size: 18px;
+        font-size: 16px;
         margin-top: 15px;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
@@ -687,12 +774,23 @@
         line-height: normal;
         color: #ffffff;
       }
+      .offereke81{
+        font-size: 18px;
+        margin-top: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
+      }
       .about-11r,
-      .about-ensemble{
+      .about-ensemble,
+      .about-ke81{
         margin-left: 20px;
       }
     .image11R,
-    .imageensemble{
+    .imageensemble,
+    .image-ke81{
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
@@ -808,11 +906,19 @@
         height: auto;
         margin-top: 30px;
     }
-    .empty_div_1{
+    .Fearuring-titl,
+    .topia-titl{
+        font-size: 18px;
+    }
+    .empty_div_1,
+    .empty_div_3,
+    .empty_div_4{
         display: none;
     }
-    .this_week_line{
-        width: 100%;
+    .fearuring_line,
+    .this_week_line,
+    .topia_line{
+        width: 632px;
         align-self: center;
     }
     .this_week_list_items{
@@ -893,7 +999,8 @@
         height: auto;
     }
     .one11R-contain,
-    .OnePlus-Ensemble{
+    .OnePlus-Ensemble,
+    .keyyboard81{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -906,7 +1013,8 @@
         gap: 0px;
     }
     .content-11r,
-    .content-ensemble{
+    .content-ensemble,
+    .content-ke81{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -916,6 +1024,9 @@
     .about-ce3lite{
         width: 300px;
         margin-left: 20px;
+    }
+    .ke81-header-text{
+        font-size: 37px;
     }
     .ce3title,
     .title11R{
@@ -935,6 +1046,14 @@
         line-height: normal;
         letter-spacing: -1px;
         margin-top: 0px;
+    }
+    .title2ke81{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
     }
     .pricece3{
         color: #939393;
@@ -992,6 +1111,15 @@
         font-weight: 400;
         line-height: normal;
         color: #ffffff;
+    }
+    .offereke81{
+        font-size: 18px;
+        margin-top: 55px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
       .about-11r{
         margin-left: 20px;
@@ -1001,6 +1129,11 @@
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
+    }
+    .image-ke81{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 10px;
     }
     .ce3imag{
         max-width: 100%; 
@@ -1120,11 +1253,15 @@
         height: auto;
         margin-top: 30px;
     }
-    .empty_div_1{
+    .empty_div_1
+    .empty_div_3,
+    .empty_div_4{
         display: none;
     }
-    .this_week_line{
-        width: 100%;
+    .fearuring_line,
+    .this_week_line,
+    .topia_line{
+        width: 832px;
         align-self: center;
     }
     .this_week_list_items{
@@ -1207,7 +1344,8 @@
         height: auto;
     }
     .one11R-contain,
-    .OnePlus-Ensemble{
+    .OnePlus-Ensemble,
+    .keyyboard81{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -1220,7 +1358,8 @@
         gap: 80px;
     }
     .content-11r,
-    .content-ensemble{
+    .content-ensemble,
+    .content-ke81{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -1236,7 +1375,14 @@
         margin-left: 20px;
         width: 500px;
         margin-top: 10px;
+    }
+    .about-ke81{
+        margin-left: 20px;
+        width: 500px;
       }
+      .ke81-header-text{
+        font-size: 40px;
+    }
     .ce3title,
     .title11R{
         font-family: 'Inter Tight', sans-serif;
@@ -1247,7 +1393,8 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
-    .title2ensemble{
+    .title2ensemble,
+    .title2ke81{
         font-family: 'Inter Tight', sans-serif;
         font-size: 40px;
         font-style: normal;
@@ -1304,8 +1451,9 @@
         line-height: normal;
         color: #ffffff;
     }
-    .offerensemble{
-        font-size: 20px;
+    .offerensemble,
+    .offereke81{
+        font-size: 19px;
         margin-top: 135px;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
@@ -1318,6 +1466,11 @@
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
+    }
+    .image-ke81{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 10px;
     }
     .ce3imag{
         max-width: 100%; 
@@ -1438,15 +1591,24 @@
         height: auto;
         margin-top: 30px;
     }
+    .Fearuring-titl,
+    .topia-titl{
+        font-size: 20px;
+        font-family: 'Inter Tight', sans-serif;
+    }
     .hot_picks{
         font-size: 20px;
         font-family: 'Inter Tight', sans-serif;
     }
-    .empty_div_1{
+    .empty_div_1,
+    .empty_div_3,
+    .empty_div_4{
         display: none;
     }
-    .this_week_line{
-        width: 100%;
+    .fearuring_line,
+    .this_week_line,
+    .topia_line{
+        width: 1232px;
         align-self: center;
     }
     .this_week_list_items{
