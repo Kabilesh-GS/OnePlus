@@ -592,3 +592,49 @@ body {
   margin-bottom: 5px;
   justify-content: start;
 }
+/*Never Settle*/
+.imageSettle{
+  width: 720px;
+}
+.Settle-header{
+  color: white;
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+}
+.offerSettle{
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Inter Tight', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 170px;
+}
+.title1Settle{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1px;
+  color: white;
+}
+.content-Settle{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.Settle-header{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.learnSettle{
+  color: white;
+  text-decoration: underline;
+  font-size: 16px;
+}

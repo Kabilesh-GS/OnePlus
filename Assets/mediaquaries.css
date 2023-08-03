@@ -10,14 +10,16 @@
     .CE3lite-contain,
     .one11R-contain,
     .OnePlus-Ensemble,
-    .keyyboard81{
+    .keyyboard81,
+    .Never-Settle{
         width: 100%;
         height: auto;
     }
     .content-ce3lite,
     .content-11r,
     .content-ensemble,
-    .content-ke81{
+    .content-ke81,
+    .content-Settle{
         display: flex;
         flex-direction: column;
         margin-left: 10px;
@@ -30,7 +32,8 @@
         height: 40px;
         font-size: 14px;
     }
-    .ke81-header-text{
+    .ke81-header-text,
+    .settle-header-text{
         font-size: 26px;
     }
     .ce3title,
@@ -55,7 +58,8 @@
         letter-spacing: -1px;
         margin-top: 0px;
     }
-    .title2ensemble{
+    .title2ensemble,
+    .title1Settle{
         font-family: 'Inter Tight', sans-serif;
         font-size: 30px;
         font-style: normal;
@@ -111,15 +115,8 @@
         font-weight: 400;
         line-height: normal;
     }
-    .offereke81{
-        font-size: 15px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: white;
-    }
+    .offereke81,
+    .offerSettle,
     .offerensemble{
         font-size: 15px;
         margin-top: 15px;
@@ -132,7 +129,8 @@
     .image11R,
     .ce3imag,
     .imageensemble,
-    .image-ke81{
+    .image-ke81,
+    .imageSettle{
         max-width: 100%; 
         height: auto; 
         margin-top: 10px;
@@ -320,7 +318,8 @@
     .CE3lite-contain,
     .one11R-contain,
     .OnePlus-Ensemble,
-    .keyyboard81{
+    .keyyboard81,
+    .Never-Settle{
         width: 100%;
         height: auto;
     }
@@ -333,7 +332,8 @@
     }
     .content-11r,
     .content-ensemble,
-    .content-ke81{
+    .content-ke81,
+    .content-Settle{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -353,7 +353,8 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
-    .ke81-header-text{
+    .ke81-header-text,
+    .settle-header-text{
         font-size: 30px;
     }
     .title2ke81{
@@ -365,7 +366,8 @@
         letter-spacing: -1px;
         margin-top: 0px;
     }
-    .title2ensemble{
+    .title2ensemble,
+    .title1Settle{
         font-family: 'Inter Tight', sans-serif;
         font-size: 30px;
         font-style: normal;
@@ -437,7 +439,8 @@
         line-height: normal;
         color: #ffffff;
     }
-    .offerensemble{
+    .offerensemble,
+    .offerSettle{
         font-size: 15px;
         margin-top: 15px;
         font-family: 'Inter Tight', sans-serif;
@@ -452,7 +455,8 @@
         height: auto; 
         margin-top: 90px;
     }
-    .image-ke81{
+    .image-ke81,
+    .imageSettle{
         max-width: 100%; 
         height: auto; 
     }
@@ -654,7 +658,8 @@
     }
     .one11R-contain,
     .OnePlus-Ensemble,
-    .keyyboard81{
+    .keyyboard81,
+    .Never-Settle{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -668,7 +673,8 @@
     }
     .content-11r,
     .content-ensemble,
-    .content-ke81{
+    .content-ke81,
+    .content-Settle{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -679,7 +685,8 @@
         width: 300px;
         margin-left: 20px;
     }
-    .ke81-header-text{
+    .ke81-header-text,
+    .settle-header-text{
         font-size: 34px;
     }
     .ce3title,
@@ -692,7 +699,8 @@
         letter-spacing: -1px;
         margin-top: 20px;
     }
-    .title2ensemble{
+    .title2ensemble,
+    .title1Settle{
         font-family: 'Inter Tight', sans-serif;
         font-size: 35px;
         font-style: normal;
@@ -765,7 +773,8 @@
         line-height: normal;
         color: #939393;
     }
-    .offerensemble{
+    .offerensemble,
+    .offerSettle{
         font-size: 16px;
         margin-top: 15px;
         font-family: 'Inter Tight', sans-serif;
@@ -785,12 +794,14 @@
       }
       .about-11r,
       .about-ensemble,
-      .about-ke81{
+      .about-ke81,
+      .about-Settle{
         margin-left: 20px;
       }
     .image11R,
     .imageensemble,
-    .image-ke81{
+    .image-ke81,
+    .imageSettle{
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
@@ -1000,7 +1011,8 @@
     }
     .one11R-contain,
     .OnePlus-Ensemble,
-    .keyyboard81{
+    .keyyboard81,
+    .Never-Settle{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -1014,7 +1026,8 @@
     }
     .content-11r,
     .content-ensemble,
-    .content-ke81{
+    .content-ke81,
+    .content-Settle{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -1025,7 +1038,8 @@
         width: 300px;
         margin-left: 20px;
     }
-    .ke81-header-text{
+    .ke81-header-text,
+    .settle-header-text{
         font-size: 37px;
     }
     .ce3title,
@@ -1048,6 +1062,14 @@
         margin-top: 0px;
     }
     .title2ke81{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+    }
+    .title1Settle{
         font-family: 'Inter Tight', sans-serif;
         font-size: 35px;
         font-style: normal;
@@ -1120,6 +1142,15 @@
         font-weight: 400;
         line-height: normal;
         color: #ffffff;
+    }
+    .offerSettle{
+        font-size: 18px;
+        margin-top: 135px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
       .about-11r{
         margin-left: 20px;
@@ -1130,7 +1161,8 @@
         height: auto; 
         margin-top: 30px;
     }
-    .image-ke81{
+    .image-ke81,
+    .imageSettle{
         max-width: 100%; 
         height: auto; 
         margin-top: 10px;
@@ -1345,7 +1377,8 @@
     }
     .one11R-contain,
     .OnePlus-Ensemble,
-    .keyyboard81{
+    .keyyboard81,
+    .Never-Settle{
         width: 100%;
         height: auto;
         margin-top: 10px;
@@ -1359,7 +1392,8 @@
     }
     .content-11r,
     .content-ensemble,
-    .content-ke81{
+    .content-ke81,
+    .content-Settle{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -1371,7 +1405,8 @@
         margin-left: 20px;
     }
     .about-11r,
-    .about-ensemble{
+    .about-ensemble,
+    .about-Settle{
         margin-left: 20px;
         width: 500px;
         margin-top: 10px;
@@ -1380,7 +1415,8 @@
         margin-left: 20px;
         width: 500px;
       }
-      .ke81-header-text{
+    .ke81-header-text,
+    .settle-header-text{
         font-size: 40px;
     }
     .ce3title,
@@ -1392,6 +1428,15 @@
         line-height: normal;
         letter-spacing: -1px;
         margin-top: 20px;
+    }
+    .title1Settle{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -1px;
+        margin-top: 0px;
     }
     .title2ensemble,
     .title2ke81{
@@ -1460,9 +1505,19 @@
         font-weight: 400;
         line-height: normal;
         color: #ffffff;
+    }
+    .offerSettle{
+        font-size: 19px;
+        margin-top: 225px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
       }
     .image11R,
-    .imageensemble{
+    .imageensemble,
+    .imageSettle{
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
