@@ -383,6 +383,8 @@ body {
   background-color: #00000021;
   height: 2px;
   width: 1192px;
+  vertical-align: middle;
+  align-self: center;
 }
 .fearuring_line{
   background-color: #ffffff;
@@ -435,9 +437,24 @@ body {
   height: 470px;
   width: 290px;
 }
+.main_contain-2{
+  background-color: rgb(255, 255, 255);
+  height: 470px;
+  width: 470px;
+}
 .image_contain{
   background-color: #F8F8F8;
   width: 290px;
+  height: 260px;
+}
+.this_week_product-2{
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+.image_contain-2{
+  background-color: #78626200;
+  width: 350px;
   height: 260px;
 }
 .this_week_11r_img,
@@ -445,6 +462,12 @@ body {
 .this_week_tvy_img,
 .this_week_pad_img{
   width: 260px;
+  margin-left: 15px;
+}
+.this_week_11r_img-2,
+.this_week_ce3_img-2,
+.this_week_tvy_img-2{
+  width: 420px;
   margin-left: 15px;
 }
 .this_week_11r_title,
@@ -560,6 +583,13 @@ body {
   color: white;
   text-decoration: underline;
   font-size: 16px;
+  margin-bottom: 50px;
+}
+.notifyke81-2{
+  color: white;
+  text-decoration: underline;
+  font-size: 16px;
+  margin-bottom: 20px;
 }
 
 /*Onetopia headder css*/
@@ -650,6 +680,18 @@ body {
 .about-awards{
   display: inline-block;
 }
+.title-nature-2,
+.title-awards-2{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+  margin-top: 15px;
+  color: rgb(0, 0, 0);
+  margin-left: 20px;
+}
 .title-nature,
 .title-awards{
   font-family: 'Inter Tight', sans-serif;
@@ -662,13 +704,13 @@ body {
   color: white;
   margin-left: 20px;
 }
-.offer-nature{
+.offer-nature-2{
   font-size: 13px;
   font-family: 'Inter Tight', sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 170px;
-  color: white;
+  color: rgb(0, 0, 0);
   margin-left: 20px;
 }
 .imagenature,
@@ -679,12 +721,17 @@ body {
 .Awards{
   display: flex;
   justify-content: center;
-}
-.Awards,
-.nature{
   width: 620px;
   height: 358px;
   background-color: #222222;
+}
+.nature-2,
+.Awards-2{
+  display: flex;
+  justify-content: center;
+  width: 620px;
+  height: 358px;
+  background-color: #F8F8F8;
 }
 .offer-awards{
   font-size: 13px;
@@ -693,5 +740,14 @@ body {
   margin-bottom: 10px;
   margin-top: 60px;
   color: white;
+  margin-left: 20px;
+}
+.offer-awards-2{
+  font-size: 13px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  margin-bottom: 10px;
+  margin-top: 60px;
+  color: rgb(0, 0, 0);
   margin-left: 20px;
 }

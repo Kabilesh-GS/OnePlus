@@ -126,6 +126,16 @@
         line-height: normal;
         color: white;
       }
+
+    .offereke81-2{
+        font-size: 15px;
+        margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: white;
+    }
     .image11R,
     .ce3imag,
     .imageensemble,
@@ -279,11 +289,17 @@
     .this_week_tvy,
     .this_week_pad,
     .footer-pages,
-    .main_contain{
+    .main_contain,
+    .main_contain-2{
         width: 100%;
         height: auto;
     }
     .this_week_product{
+        width: 100%;
+        height: auto;
+        overflow-x: auto;
+    }
+    .this_week_product-2{
         width: 100%;
         height: auto;
         overflow-x: auto;
@@ -337,6 +353,18 @@
         color: white;
         margin-left: 10px;
       }
+      .title-nature-2,
+      .title-awards-2{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+      }
       .offer-nature{
         font-size: 8px;
         font-family: 'Inter Tight', sans-serif;
@@ -344,6 +372,15 @@
         margin-bottom: 10px;
         margin-top: 90px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-nature-2{
+        font-size: 8px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 90px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
       .imagenature,
@@ -358,6 +395,14 @@
         background-color: #222222;
         height: 218px;
       }
+      .nature-2,
+      .Awards-2{
+        display: flex;
+        justify-content: center;
+        width: 350px;
+        background-color: #F8F8F8;
+        height: 218px;
+      }
       .offer-awards{
         font-size: 8px;
         font-family: 'Inter Tight', sans-serif;
@@ -365,6 +410,15 @@
         margin-bottom: 10px;
         margin-top: 40px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-awards-2{
+        font-size: 8px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 40px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
 
@@ -496,6 +550,15 @@
     .offereke81{
         font-size: 12px;
         margin-top: 15px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
+    }
+    .offereke81-2{
+        font-size: 12px;
+        margin-top: 55px;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
@@ -679,11 +742,17 @@
     .this_week_tvy,
     .this_week_pad,
     .footer-pages,
-    .main_contain{
+    .main_contain,
+    .main_contain-2{
         width: 100%;
         height: auto;
     }
     .this_week_product{
+        width: 100%;
+        height: auto;
+        overflow-x: auto;
+    }
+    .this_week_product-2{
         width: 100%;
         height: auto;
         overflow-x: auto;
@@ -737,6 +806,18 @@
         color: white;
         margin-left: 10px;
       }
+      .title-nature-2,
+      .title-awards-2{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+      }
       .offer-nature{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -744,6 +825,15 @@
         margin-bottom: 10px;
         margin-top: 120px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-nature-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 120px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
       .imagenature,
@@ -758,6 +848,14 @@
         background-color: #222222;
         height: 306px;
       }
+      .nature-2,
+      .Awards-2{
+        display: flex;
+        justify-content: center;
+        width: 590px;
+        background-color: #F8F8F8;
+        height: 306px;
+      }
       .offer-awards{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -765,6 +863,15 @@
         margin-bottom: 10px;
         margin-top: 60px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-awards-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
 
@@ -912,6 +1019,15 @@
       .offereke81{
         font-size: 18px;
         margin-top: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
+      }
+      .offereke81-2{
+        font-size: 18px;
+        margin-top: 93px;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
@@ -1093,11 +1209,17 @@
     .this_week_tvy,
     .this_week_pad,
     .footer-pages,
-    .main_contain{
+    .main_contain,
+    .main_contain-2{
         width: 100%;
         height: auto;
     }
     .this_week_product{
+        width: 100%;
+        height: auto;
+        overflow-x: auto;
+    }
+    .this_week_product-2{
         width: 100%;
         height: auto;
         overflow-x: auto;
@@ -1151,6 +1273,18 @@
         color: white;
         margin-left: 10px;
       }
+      .title-nature-2,
+      .title-awards-2{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+      }
       .offer-nature{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -1158,6 +1292,15 @@
         margin-bottom: 10px;
         margin-top: 120px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-nature-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 120px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
       .imagenature,
@@ -1172,6 +1315,14 @@
         background-color: #222222;
         height: 306px;
       }
+      .nature-2,
+      .Awards-2{
+        display: flex;
+        justify-content: center;
+        width: 590px;
+        background-color: #F8F8F8;
+        height: 306px;
+      }
       .offer-awards{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -1179,6 +1330,15 @@
         margin-bottom: 10px;
         margin-top: 60px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-awards-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
 }
@@ -1326,6 +1486,15 @@
     .offereke81{
         font-size: 18px;
         margin-top: 55px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
+    }
+    .offereke81-2{
+        font-size: 18px;
+        margin-top: 85px;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
@@ -1520,7 +1689,15 @@
         width: 290px;
         margin-right: 0px;
     }
+    .main_contain-2{
+        height: 470px;
+        width: 470px;
+        margin-right: 0px;
+    }
     .this_week_product{
+        overflow-x: auto;
+    }
+    .this_week_product-2{
         overflow-x: auto;
     }
     .footer-pages{
@@ -1579,6 +1756,18 @@
         color: white;
         margin-left: 10px;
       }
+      .title-nature-2,
+      .title-awards-2{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+      }
       .offer-nature{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -1586,6 +1775,15 @@
         margin-bottom: 10px;
         margin-top: 120px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-nature-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 120px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
       .imagenature,
@@ -1600,6 +1798,14 @@
         background-color: #222222;
         height: 306px;
       }
+      .nature-2,
+      .Awards-2{
+        display: flex;
+        justify-content: center;
+        width: 590px;
+        background-color: #F8F8F8;
+        height: 306px;
+      }
       .offer-awards{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -1607,6 +1813,15 @@
         margin-bottom: 10px;
         margin-top: 60px;
         color: white;
+        margin-left: 10px;
+      }
+      .offer-awards-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: rgb(0, 0, 0);
         margin-left: 10px;
       }
 }
@@ -1751,6 +1966,15 @@
     .offereke81{
         font-size: 19px;
         margin-top: 135px;
+        font-family: 'Inter Tight', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #ffffff;
+    }
+    .offereke81-2{
+        font-size: 19px;
+        margin-top: 205px;
         font-family: 'Inter Tight', sans-serif;
         font-style: normal;
         font-weight: 400;
@@ -1956,16 +2180,29 @@
         align-items: center;
         width: 1400px;
       }
+      .this_week_product-2{
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        margin-top: 50px;
+        justify-content: center;
+        align-items: center;
+      }
       .this_week_11r,
       .this_week_ce3lte,
       .this_week_tvy,
       .this_week_pad{
-        width: 290px;
+        width: 420px;
       }
     .main_contain{
         background-color: rgb(255, 255, 255);
         height: 470px;
         width: 290px;
+    }
+    .main_contain-2{
+        background-color: rgb(255, 255, 255);
+        height: 470px;
+        width: 470px;
     }
     .footer-pages{
         display: flex;
@@ -2017,6 +2254,18 @@
         color: white;
         margin-left: 20px;
       }
+      .title-nature-2,
+      .title-awards-2{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: rgb(0, 0, 0);
+        margin-left: 20px;
+      }
       .offer-nature{
         font-size: 13px;
         font-family: 'Inter Tight', sans-serif;
@@ -2024,6 +2273,15 @@
         margin-bottom: 10px;
         margin-top: 170px;
         color: white;
+        margin-left: 20px;
+      }
+      .offer-nature-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 170px;
+        color: rgb(0, 0, 0);
         margin-left: 20px;
       }
       .imagenature,
@@ -2034,12 +2292,17 @@
       .Awards{
         display: flex;
         justify-content: center;
-      }
-      .Awards,
-      .nature{
         width: 620px;
         height: 358px;
         background-color: #222222;
+      }
+      .nature-2,
+      .Awards-2{
+        display: flex;
+        justify-content: center;
+        width: 620px;
+        height: 358px;
+        background-color: #F8F8F8;
       }
       .offer-awards{
         font-size: 13px;
@@ -2048,6 +2311,15 @@
         margin-bottom: 10px;
         margin-top: 60px;
         color: white;
+        margin-left: 20px;
+      }
+      .offer-awards-2{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: rgb(0, 0, 0);
         margin-left: 20px;
       }
 }
