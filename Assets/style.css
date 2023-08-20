@@ -638,3 +638,60 @@ body {
   text-decoration: underline;
   font-size: 16px;
 }
+
+/*two container 2*/
+.two-product-container-2{
+  margin-top: 61px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.about-nature,
+.about-awards{
+  display: inline-block;
+}
+.title-nature,
+.title-awards{
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+  margin-top: 15px;
+  color: white;
+  margin-left: 20px;
+}
+.offer-nature{
+  font-size: 13px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  margin-bottom: 10px;
+  margin-top: 170px;
+  color: white;
+  margin-left: 20px;
+}
+.imagenature,
+.imageawards{
+  width: 280px;
+}
+.nature,
+.Awards{
+  display: flex;
+  justify-content: center;
+}
+.Awards,
+.nature{
+  width: 620px;
+  height: 358px;
+  background-color: #222222;
+}
+.offer-awards{
+  font-size: 13px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  margin-bottom: 10px;
+  margin-top: 60px;
+  color: white;
+  margin-left: 20px;
+}

@@ -305,6 +305,66 @@
         margin-top: 10px;
         margin-left: 15px;
     }
+    .two-product-container-2{
+        margin-top: 61px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        flex-direction: column;
+        align-items: center;
+      }
+      .about-nature,
+      .about-awards{
+        display: inline-block;
+        height: 306px;
+      }
+      .title-nature,
+      .title-awards{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: white;
+        margin-left: 10px;
+      }
+      .offer-nature{
+        font-size: 8px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 90px;
+        color: white;
+        margin-left: 10px;
+      }
+      .imagenature,
+      .imageawards{
+        width: 170px;
+      }
+      .nature,
+      .Awards{
+        display: flex;
+        justify-content: center;
+        width: 350px;
+        background-color: #222222;
+        height: 218px;
+      }
+      .offer-awards{
+        font-size: 8px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 40px;
+        color: white;
+        margin-left: 10px;
+      }
+      .oneplus-more-back-contain{
+        height: 2500px;
+      }
 }
 @media only screen and (min-width: 600px) {
     .nav-contai{
@@ -642,6 +702,66 @@
         margin-top: 10px;
         margin-left: 15px;
     }
+    .two-product-container-2{
+        margin-top: 61px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        flex-direction: column;
+        align-items: center;
+      }
+      .about-nature,
+      .about-awards{
+        display: inline-block;
+        height: 306px;
+      }
+      .title-nature,
+      .title-awards{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: white;
+        margin-left: 10px;
+      }
+      .offer-nature{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 120px;
+        color: white;
+        margin-left: 10px;
+      }
+      .imagenature,
+      .imageawards{
+        width: 240px;
+      }
+      .nature,
+      .Awards{
+        display: flex;
+        justify-content: center;
+        width: 590px;
+        background-color: #222222;
+        height: 306px;
+      }
+      .offer-awards{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: white;
+        margin-left: 10px;
+      }
+      .oneplus-more-back-contain{
+        height: 2000px;
+      }
 }
 @media only screen and (min-width: 768px) {
     .nav-contai{
@@ -992,6 +1112,63 @@
         margin-top: 10px;
         margin-left: 15px;
     }
+    .two-product-container-2{
+        margin-top: 61px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        flex-direction: column;
+        align-items: center;
+      }
+      .about-nature,
+      .about-awards{
+        display: inline-block;
+        height: 306px;
+      }
+      .title-nature,
+      .title-awards{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: white;
+        margin-left: 10px;
+      }
+      .offer-nature{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 120px;
+        color: white;
+        margin-left: 10px;
+      }
+      .imagenature,
+      .imageawards{
+        width: 240px;
+      }
+      .nature,
+      .Awards{
+        display: flex;
+        justify-content: center;
+        width: 590px;
+        background-color: #222222;
+        height: 306px;
+      }
+      .offer-awards{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: white;
+        margin-left: 10px;
+      }
 }
 @media only screen and (min-width: 992px) {
     .nav-contai{
@@ -1358,6 +1535,62 @@
         margin-left: 15px;
 
     }
+    .two-product-container-2{
+        margin-top: 61px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        flex-direction: row;
+      }
+      .about-nature,
+      .about-awards{
+        display: inline-block;
+        height: 306px;
+      }
+      .title-nature,
+      .title-awards{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: white;
+        margin-left: 10px;
+      }
+      .offer-nature{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 120px;
+        color: white;
+        margin-left: 10px;
+      }
+      .imagenature,
+      .imageawards{
+        width: 240px;
+      }
+      .nature,
+      .Awards{
+        display: flex;
+        justify-content: center;
+        width: 590px;
+        background-color: #222222;
+        height: 306px;
+      }
+      .offer-awards{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: white;
+        margin-left: 10px;
+      }
 }
 @media only screen and (min-width: 1200px) {
     .nav-contai{
@@ -1738,4 +1971,59 @@
     .program-list{
         margin-top: 40px;
     }
+    .two-product-container-2{
+        margin-top: 61px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+      }
+      .about-nature,
+      .about-awards{
+        display: inline-block;
+      }
+      .title-nature,
+      .title-awards{
+        font-family: 'Inter Tight', sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: inline-block;
+        margin-top: 15px;
+        color: white;
+        margin-left: 20px;
+      }
+      .offer-nature{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 170px;
+        color: white;
+        margin-left: 20px;
+      }
+      .imagenature,
+      .imageawards{
+        width: 280px;
+      }
+      .nature,
+      .Awards{
+        display: flex;
+        justify-content: center;
+      }
+      .Awards,
+      .nature{
+        width: 620px;
+        height: 358px;
+        background-color: #222222;
+      }
+      .offer-awards{
+        font-size: 13px;
+        font-family: 'Inter Tight', sans-serif;
+        line-height: normal;
+        margin-bottom: 10px;
+        margin-top: 60px;
+        color: white;
+        margin-left: 20px;
+      }
 }
