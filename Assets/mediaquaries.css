@@ -135,6 +135,11 @@
         height: auto; 
         margin-top: 10px;
     }
+    .image-ke81-2{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 10px;
+    }
     .textlearnmore11r{
         margin-bottom: 0;
         margin-top: 7px;
@@ -362,9 +367,7 @@
         color: white;
         margin-left: 10px;
       }
-      .oneplus-more-back-contain{
-        height: 2500px;
-      }
+
 }
 @media only screen and (min-width: 600px) {
     .nav-contai{
@@ -519,6 +522,11 @@
     .imageSettle{
         max-width: 100%; 
         height: auto; 
+    }
+    .image-ke81-2{
+        max-width: 100%; 
+        height: auto; 
+        margin-bottom: 25px;
     }
     .ce3imag{
         max-width: 100%; 
@@ -759,9 +767,7 @@
         color: white;
         margin-left: 10px;
       }
-      .oneplus-more-back-contain{
-        height: 2000px;
-      }
+
 }
 @media only screen and (min-width: 768px) {
     .nav-contai{
@@ -925,6 +931,12 @@
         max-width: 100%; 
         height: auto; 
         margin-top: 30px;
+    }
+    .image-ke81-2{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 30px;
+        margin-bottom: 25px;
     }
     .ce3imag{
         max-width: 100%; 
@@ -1344,6 +1356,12 @@
         height: auto; 
         margin-top: 10px;
     }
+    .image-ke81-2{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
     .ce3imag{
         max-width: 100%; 
         height: auto; 
@@ -1759,6 +1777,12 @@
         max-width: 100%; 
         height: auto; 
         margin-top: 10px;
+    }
+    .image-ke81-2{
+        max-width: 100%; 
+        height: auto; 
+        margin-top: 10px;
+        margin-bottom: 25px;
     }
     .ce3imag{
         max-width: 100%; 
