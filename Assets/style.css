@@ -432,6 +432,10 @@ body {
   gap:  10px;
   margin-top: 50px;
 }
+.this_week_product-2{
+  display: flex;
+  margin-top: 50px;
+}
 .main_contain{
   background-color: rgb(255, 255, 255);
   height: 470px;
@@ -446,11 +450,6 @@ body {
   background-color: #F8F8F8;
   width: 290px;
   height: 260px;
-}
-.this_week_product-2{
-  justify-content: center;
-  display: flex;
-  margin-top: 50px;
 }
 .image_contain-2{
   background-color: #78626200;
@@ -750,4 +749,13 @@ body {
   margin-top: 60px;
   color: rgb(0, 0, 0);
   margin-left: 20px;
+}
+/*Faq elements*/
+.FAQele{
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  font-family: 'Inter Tight', sans-serif;
+  line-height: normal;
+  margin-top: 60px;
 }
