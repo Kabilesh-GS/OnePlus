@@ -55,9 +55,20 @@ body {
   font-size: 14px;
   padding-top: 10px;
 }
+.header-2{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  padding-top: 10px;
+}
 .header:hover{
   border-bottom-style:solid;
   border-color: red;
+}.header-2:hover{
+  border-bottom-style:solid;
+  border-color: red;
+  cursor: pointer;
 }
 .CE3lite-contain{
   background: rgb(227,227,227);
@@ -265,14 +276,10 @@ body {
 }
 .footer-contact{
   display: flex;
-  grid-template-columns: 600px 300px;
   column-gap: 0px;
   justify-content: center;
   align-items: center;
-  gap: 300px;
-}
-.contact-info{
-  margin-top: 79px;
+  gap: 600px;
 }
 .two-product-container{
   margin-top: 61px;
@@ -822,4 +829,15 @@ body {
   height: 2px;
   background-color: #00000019;
   width: 1200px;
+}
+/*icons*/
+.face,
+.xtwit,
+.insta{
+  font-size: 26px;
+  text-decoration: none;
+}
+.contact-info{
+  display: flex;
+  gap: 10px;
 }

@@ -308,23 +308,24 @@
     .footer-contact{
         display: flex;
         flex-direction: column;
-        gap: 0px;
+        gap: 10px;
     }
     .content{
         display: none;
     }
-    .phones-list,
-    .payment{
-        margin-top: 30px;
-        margin-left: 15px;
+    .phones-list{
+      margin-top: 30px;
+      margin-left: 15px;
     }
     .store-list,
     .support-list,
     .explore-list,
-    .program-list,
-    .contact-info{
+    .program-list{
         margin-top: 10px;
         margin-left: 15px;
+    }
+    .contact-info{
+
     }
     .two-product-container-2{
         margin-top: 61px;
@@ -820,23 +821,26 @@
     .footer-contact{
         display: flex;
         flex-direction: column;
-        gap: 0px;
+        gap: 10px;
     }
     .content{
         display: none;
     }
-    .phones-list,
+    .phones-list{
+      margin-top: 30px;
+      margin-left: 15px;
+    }
     .payment{
         margin-top: 30px;
-        margin-left: 15px;
     }
     .store-list,
     .support-list,
     .explore-list,
-    .program-list,
+    .program-list{
+      margin-top: 10px;
+      margin-left: 15px;
+    }
     .contact-info{
-        margin-top: 10px;
-        margin-left: 15px;
     }
     .two-product-container-2{
         margin-top: 61px;
@@ -1346,23 +1350,26 @@
     .footer-contact{
         display: flex;
         flex-direction: column;
-        gap: 0px;
+        gap: 20px;
     }
     .content{
         display: none;
     }
-    .phones-list,
+    .phones-list{
+      margin-left: 15px;
+      margin-top: 30px;
+    }
     .payment{
         margin-top: 30px;
-        margin-left: 15px;
     }
     .store-list,
     .support-list,
     .explore-list,
-    .program-list,
+    .program-list{
+      margin-top: 10px;
+      margin-left: 15px;
+    }
     .contact-info{
-        margin-top: 10px;
-        margin-left: 15px;
     }
     .two-product-container-2{
         margin-top: 61px;
@@ -1890,11 +1897,8 @@
         display:block;
     }
     .contact-info{
-        margin-left: 15px;
-        margin-top: 20px;
     }
     .payment{
-        margin-left: 15px;
         margin-top: 0px;
     }
     .phones-list,
@@ -2445,17 +2449,13 @@
     .footer-contact{
         display: flex;
         flex-direction: row;
-        gap: 150px;
+        gap: 600px;
+        margin-top: 20px;
     }
     .content{
         display:block;
     }
-    .contact-info{
-        margin-left: 15px;
-        margin-top: 20px;
-    }
     .payment{
-        margin-left: 15px;
         margin-top: 0px;
     }
     .phones-list,
