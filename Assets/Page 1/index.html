@@ -13,21 +13,34 @@
     <div class="form-body-contain">
         <div class="form-contain">
             <p class="title1">Create Account</p>
-            <div class="inputs">
+
+            <form name="formVal" class="inputs">
                 <div class="names">
-                    <input type="text" class="first-name" placeholder="First Name">
-                    <input type="text" class="last-name" placeholder="Last Name">
+                    <input type="text" name="Firstname" class="first-name" placeholder="First Name">
+                    <input type="text" name="Lastname" class="last-name" placeholder="Last Name">
                 </div>
-                <input type="number" class="phone" placeholder="Phone Number">
-                <input type="email" class="email" placeholder="E-mail ID">
-                <input type="password" class="password" placeholder="Password">
-            </div>
-            <div class="button">
-                <button class="join-button">
-                    Join Now
-                </button>
-            </div>
+                    <input type="number" name="phonenum" class="phone" placeholder="Phone Number"><br>
+                    <input type="email" name="emailid" class="email" placeholder="E-mail ID"><br>
+                    <input type="password" name="passcode" class="password" placeholder="Password">
+                <div class="button">
+                    <input name="joinbutton" class="join-button" type="submit" value="Join Now"> 
+            </form>
         </div>
+
+            <div>
+                <p class="alt-text">Other Ways</p>
+            </div>
+            <div class="icons">
+                <ion-icon class="google" name="logo-google"></ion-icon>
+                <ion-icon class="apple" name="logo-apple"></ion-icon>
+            </div>
+            <div class="icon-text">
+                <p class="text1">Google</p>
+                <p class="text2">Apple ID</p>
+            </div>
     </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </body>
 </html>
