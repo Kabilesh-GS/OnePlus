@@ -1,0 +1,226 @@
+.nav-contai {
+  display: flex;
+  gap: 0px;
+  justify-content: center;
+}
+.nav-contai-2 {
+  display: flex;
+  gap: 260px;
+  justify-content: center;
+}
+.topnav {
+  background-color: white;
+  display: flex;
+}
+.topnav a {
+  color: black;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 6px;
+  text-decoration: none;
+  font-size: 14px;
+  padding-top: 10px;
+}
+.logo {
+  width: 90px;
+  height: 25px;
+  margin-top: 6px;
+}
+.topnav a:hover {
+  border-bottom-style: solid;
+  border-color: red;
+}
+.toprightnav {
+  overflow: hidden;
+  background-color: white;
+  display: flex;
+}
+.toprightnav a {
+  color: black;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 10px;
+}
+.toprightnav a:hover {
+  border-bottom-style: solid;
+  border-color: red;
+}
+.header {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  padding-top: 10px;
+}
+.header-2 {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  padding-top: 10px;
+}
+.header:hover {
+  border-bottom-style: solid;
+  border-color: red;
+}
+.header-2:hover {
+  border-bottom-style: solid;
+  border-color: red;
+  cursor: pointer;
+}
+.footer-contact {
+  display: flex;
+  column-gap: 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 600px;
+}
+.footer-pages {
+  display: flex;
+  grid-template-columns: 420px 240px 240px 240px 240px;
+  justify-content: center;
+  gap: 85px;
+}
+.phones-list,
+.store-list,
+.support-list,
+.explore-list,
+.program-list {
+  margin-top: 61px;
+}
+.list_title {
+  font-family: "Inter Tight", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+.content {
+  font-family: "Inter Tight", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 15px;
+  color: #939393;
+}
+.payment {
+  display: flex;
+  margin-top: 0px;
+}
+.wallet,
+.pie,
+.bank {
+  margin-left: 18px;
+}
+.face,
+.xtwit,
+.insta {
+  font-size: 26px;
+  text-decoration: none;
+}
+.contact-info {
+  display: flex;
+  gap: 10px;
+}
+.title01 {
+  font-family: "Inter Tight", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.linedivcontain {
+  display: flex;
+  justify-content: center;
+}
+.linediv {
+  background-color: rgb(129, 129, 129);
+  height: 1px;
+  width: auto;
+  display: flex;
+  width: 1000px;
+}
+.contentbox,
+.contentbox2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.listbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.para1 {
+  width: 1000px;
+  font-family: "Inter Tight", sans-serif;
+  line-height: 200%;
+  margin-top: 45px;
+}
+.para2 {
+  width: 1000px;
+  font-family: "Inter Tight", sans-serif;
+  margin-top: 15px;
+}
+.para3 {
+  font-family: "Inter Tight", sans-serif;
+  margin-top: 15px;
+  width: 1000px;
+}
+.title02 {
+  font-family: "Inter Tight", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.imagecontainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.image01 {
+  width: 770px;
+}
+.TVlists {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  width: 1000px;
+}
+.iteams {
+  font-family: "Inter Tight", sans-serif;
+  font-size: 16px;
+}
+.feedback {
+  margin-top: 40px;
+  font-family: "Inter Tight", sans-serif;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: 900px;
+}
+.para4 {
+  font-family: "Inter Tight", sans-serif;
+  margin-top: 15px;
+  color: black;
+}
+.buttonyes,
+.buttonno {
+  background-color: rgba(255, 255, 255, 0);
+  padding: 10px 30px 10px 30px;
+  border-radius: 10px;
+  border: solid;
+}
+.line2 {
+  height: 1px;
+  background-color: rgb(129, 129, 129);
+  width: 100%;
+  margin-top: 50px;
+}

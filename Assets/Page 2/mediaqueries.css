@@ -1,0 +1,207 @@
+@media only screen and (max-width: 600px) {
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a,
+  .toprightnav {
+    display: none;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 100px;
+  }
+  .footer-pages {
+    width: 100%;
+    height: auto;
+  }
+  .footer-pages,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .phones-list {
+    margin-top: 30px;
+    margin-left: 15px;
+  }
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .content {
+    display: none;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 280px;
+  }
+  .topnav a,
+  .toprightnav {
+    display: none;
+  }
+  .footer-pages {
+    width: 100%;
+    height: auto;
+  }
+  .footer-pages,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .phones-list {
+    margin-top: 30px;
+    margin-left: 15px;
+  }
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .content {
+    display: none;
+  }
+  .payment {
+    margin-top: 0px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a,
+  .toprightnav {
+    display: none;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 460px;
+  }
+  .CE3lite-contain {
+    width: 100%;
+    height: auto;
+  }
+  .footer-pages {
+    width: 100%;
+    height: auto;
+  }
+  .footer-pages,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .phones-list {
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .content {
+    display: none;
+  }
+  .payment {
+    margin-top: 30px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .footer-pages {
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+  }
+  .footer-contact {
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+  }
+  .topnav a {
+    display: none;
+  }
+  .toprightnav {
+    display: flex;
+    margin-top: 0px;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 0px;
+  }
+  .phones-list,
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 40px;
+    margin-left: 15px;
+  }
+  .content {
+    display: block;
+  }
+  .payment {
+    margin-top: 0px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a {
+    display: flex;
+  }
+  .toprightnav {
+    display: flex;
+    margin-top: 0px;
+  }
+  .nav-contai-2 {
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+  }
+  .footer-pages {
+    display: flex;
+    flex-direction: row;
+    gap: 67px;
+  }
+  .footer-contact {
+    display: flex;
+    flex-direction: row;
+    gap: 600px;
+    margin-top: 20px;
+  }
+  .phones-list,
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 40px;
+  }
+  .content {
+    display: block;
+  }
+  .payment {
+    margin-top: 0px;
+  }
+}
