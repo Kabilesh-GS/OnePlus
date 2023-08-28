@@ -35,6 +35,107 @@
   .content {
     display: none;
   }
+  .title01 {
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+  .linedivcontain {
+    display: flex;
+    justify-content: center;
+  }
+  .linediv {
+    background-color: rgb(129, 129, 129);
+    height: 1px;
+    width: auto;
+    display: flex;
+    width: 100%;
+  }
+  .contentbox,
+  .contentbox2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+  }
+  .listbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .para1 {
+    width: 100%;
+    font-family: "Inter Tight", sans-serif;
+    line-height: 200%;
+    margin-top: 25px;
+  }
+  .para2 {
+    width: 100%;
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+  }
+  .para3 {
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+    width: 100%;
+  }
+  .title02 {
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .imagecontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .image01 {
+    width: 400px;
+  }
+  .TVlists {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    width: 100%;
+  }
+  .iteams {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 16px;
+  }
+  .feedback {
+    margin-top: 40px;
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+  }
+  .para4 {
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+    color: black;
+  }
+  .buttonyes,
+  .buttonno {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    border: solid;
+  }
+  .line2 {
+    height: 1px;
+    background-color: rgb(129, 129, 129);
+    width: 100%;
+    margin-top: 50px;
+  }
 }
 @media only screen and (min-width: 600px) {
   .nav-contai {
@@ -75,6 +176,107 @@
   }
   .payment {
     margin-top: 0px;
+  }
+  .title01 {
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+  .linedivcontain {
+    display: flex;
+    justify-content: center;
+  }
+  .linediv {
+    background-color: rgb(129, 129, 129);
+    height: 1px;
+    width: auto;
+    display: flex;
+    width: 100%;
+  }
+  .contentbox,
+  .contentbox2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+  }
+  .listbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .para1 {
+    width: 100%;
+    font-family: "Inter Tight", sans-serif;
+    line-height: 200%;
+    margin-top: 25px;
+  }
+  .para2 {
+    width: 100%;
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+  }
+  .para3 {
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+    width: 100%;
+  }
+  .title02 {
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .imagecontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .image01 {
+    width: 400px;
+  }
+  .TVlists {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    width: 100%;
+  }
+  .iteams {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 16px;
+  }
+  .feedback {
+    margin-top: 40px;
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+  }
+  .para4 {
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+    color: black;
+  }
+  .buttonyes,
+  .buttonno {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    border: solid;
+  }
+  .line2 {
+    height: 1px;
+    background-color: rgb(129, 129, 129);
+    width: 100%;
+    margin-top: 50px;
   }
 }
 @media only screen and (min-width: 768px) {
@@ -203,5 +405,104 @@
   }
   .payment {
     margin-top: 0px;
+  }
+  .title01 {
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+  .linedivcontain {
+    display: flex;
+    justify-content: center;
+  }
+  .linediv {
+    background-color: rgb(129, 129, 129);
+    height: 1px;
+    width: auto;
+    display: flex;
+    width: 1000px;
+  }
+  .contentbox,
+  .contentbox2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .listbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .para1 {
+    width: 1000px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: 200%;
+    margin-top: 45px;
+  }
+  .para2 {
+    width: 1000px;
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+  }
+  .para3 {
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+    width: 1000px;
+  }
+  .title02 {
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .imagecontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .image01 {
+    width: 770px;
+  }
+  .TVlists {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    width: 1000px;
+  }
+  .iteams {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 16px;
+  }
+  .feedback {
+    margin-top: 40px;
+    font-family: "Inter Tight", sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    width: 900px;
+  }
+  .para4 {
+    font-family: "Inter Tight", sans-serif;
+    margin-top: 15px;
+    color: black;
+  }
+  .buttonyes,
+  .buttonno {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    border: solid;
+  }
+  .line2 {
+    height: 1px;
+    background-color: rgb(129, 129, 129);
+    width: 100%;
+    margin-top: 50px;
   }
 }
