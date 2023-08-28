@@ -1,0 +1,197 @@
+@media only screen and (max-width: 600px) {
+  .form-contain {
+    height: auto;
+    width: auto;
+  }
+  .title1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  .inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    align-items: center;
+  }
+  .names {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+  #firstnameipt,
+  #lastnameipt,
+  #emailipt,
+  #numbeript,
+  #passwordipt {
+    width: 260px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(226, 226, 226);
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .firstnamelab,
+  .lastnamelab,
+  .emaillab,
+  .numberlab,
+  .passwordlab {
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    margin-left: 20px;
+  }
+  #msglab1,
+  #msglab2,
+  #msglab3,
+  #msglab4,
+  #msglab5 {
+    font-family: "Poppins", sans-serif;
+    font-size: 11px;
+    color: red;
+    margin-left: 20px;
+  }
+  .google,
+  .apple {
+    font-size: 20px;
+    color: rgb(33, 33, 33);
+  }
+  .text2,
+  .text1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+  }
+  .form-body-contain {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .form-body-contain {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+  }
+}
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 1200px) {
+  .form-body-contain {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  .form-contain {
+    height: auto;
+    width: 500px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgb(113, 113, 113);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .icons {
+    display: flex;
+    gap: 35px;
+    margin-top: 15px;
+  }
+  .inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+  }
+  .title1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    margin-top: 40px;
+  }
+  .google,
+  .apple {
+    font-size: 30px;
+    color: rgb(33, 33, 33);
+  }
+  .icon-text {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-bottom: 40px;
+  }
+  .alt-text {
+    margin-top: 40px;
+    margin-bottom: 0px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    color: rgb(104, 104, 104);
+  }
+  .names {
+    display: flex;
+    gap: 10px;
+  }
+  #firstnameipt,
+  #lastnameipt {
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(226, 226, 226);
+    font-size: 17px;
+  }
+  #emailipt,
+  #numbeript,
+  #passwordipt {
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(226, 226, 226);
+    font-size: 17px;
+    width: 415px;
+  }
+  #buttonipt {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 110px;
+    font-size: 15px;
+    border: none;
+    border-radius: 20px;
+  }
+  #buttonipt:hover {
+    background-color: rgb(53, 53, 53);
+    color: white;
+    transition: background-color 0.3s;
+  }
+  .firstnamelab,
+  .lastnamelab,
+  .emaillab,
+  .numberlab,
+  .passwordlab {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+  }
+  #msglab1,
+  #msglab2,
+  #msglab3,
+  #msglab4,
+  #msglab5 {
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    color: red;
+  }
+  .text2,
+  .text1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+  }
+}
