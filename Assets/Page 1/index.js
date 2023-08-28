@@ -27,7 +27,7 @@ function validator() {
   }
   if (pass.length < 8) {
     document.getElementById("msglab5").innerHTML =
-      "Password must be 8 characters long";
+      "Password must be min 8 characters long";
   } else {
     document.getElementById("msglab5").innerHTML = "";
   }
