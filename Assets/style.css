@@ -4,7 +4,12 @@ body {
 }
 .nav-contai {
   display: flex;
-  gap: 290px;
+  gap: 0px;
+  justify-content: center;
+}
+.nav-contai-2 {
+  display: flex;
+  gap: 260px;
   justify-content: center;
 }
 .topnav {

@@ -7,6 +7,10 @@
   .toprightnav {
     display: none;
   }
+  .nav-contai {
+    display: flex;
+    gap: 100px;
+  }
   .CE3lite-contain,
   .one11R-contain,
   .OnePlus-Ensemble,
@@ -14,6 +18,9 @@
   .Never-Settle {
     width: 100%;
     height: auto;
+  }
+  .header {
+    display: none;
   }
   .content-ce3lite,
   .content-11r,
@@ -483,6 +490,13 @@
   .nav-contai {
     width: 100%;
     justify-content: center;
+  }
+  .header {
+    display: none;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 280px;
   }
   .topnav a,
   .toprightnav {
@@ -996,9 +1010,16 @@
     width: 100%;
     justify-content: center;
   }
+  .header {
+    display: none;
+  }
   .topnav a,
   .toprightnav {
     display: none;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 460px;
   }
   .CE3lite-contain {
     width: 100%;
@@ -1521,12 +1542,17 @@
     width: 100%;
     justify-content: center;
   }
+
   .topnav a {
     display: none;
   }
   .toprightnav {
     display: flex;
     margin-top: 0px;
+  }
+  .nav-contai {
+    display: flex;
+    gap: 0px;
   }
   .CE3lite-contain {
     width: 100%;
