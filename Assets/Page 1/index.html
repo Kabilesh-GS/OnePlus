@@ -4,21 +4,56 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Sign Up!</title>
+    <title>Create Account</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" type="image/png" href="Assets/Images/images.png" />
   </head>
   <body>
     <div class="form-body-contain">
       <div class="form-contain">
         <p class="title1">Create Account</p>
 
-        <form class="inputs"></form>
+        <form class="inputs">
+          <div class="names">
+            <div class="firstnam">
+              <label class="firstnamelab">First Name</label><br />
+              <input id="firstnameipt" type="text" /><br />
+              <lable id="msglab1"></lable>
+            </div>
+            <div class="lastnam">
+              <label class="lastnamelab">Last Name</label><br />
+              <input id="lastnameipt" type="text" /><br />
+              <lable id="msglab2"></lable>
+            </div>
+          </div>
+          <div class="emaildiv">
+            <label class="emaillab">E-mail</label><br />
+            <input id="emailipt" type="email" /><br />
+            <lable id="msglab3"></lable>
+          </div>
+          <div class="numberdiv">
+            <label class="numberlab">Phone Number</label><br />
+            <input id="numbeript" type="number" /><br />
+            <lable id="msglab4"></lable>
+          </div>
+          <div class="passworddiv">
+            <label class="passwordlab">Enter Password</label><br />
+            <input id="passwordipt" type="password" /><br />
+            <lable id="msglab5"></lable>
+          </div>
+          <div class="buttondiv">
+            <input
+              id="buttonipt"
+              onclick="validator()"
+              type="button"
+              value="Join Now"
+            />
+          </div>
+        </form>
 
         <div>
           <p class="alt-text">Other Ways</p>

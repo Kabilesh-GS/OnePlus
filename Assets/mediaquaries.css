@@ -1,2616 +1,2603 @@
 @media only screen and (max-width: 600px) {
-    .nav-contai{
-        width:100%;
-        justify-content: center;
-    }
-    .topnav a,
-    .toprightnav{
-        display: none;
-    }
-    .CE3lite-contain,
-    .one11R-contain,
-    .OnePlus-Ensemble,
-    .keyyboard81,
-    .Never-Settle{
-        width: 100%;
-        height: auto;
-    }
-    .content-ce3lite,
-    .content-11r,
-    .content-ensemble,
-    .content-ke81,
-    .content-Settle{
-        display: flex;
-        flex-direction: column;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 0px;
-    }
-    .learnmoreensemble,
-    .buynowensemble{
-        width: 110px;
-        height: 40px;
-        font-size: 14px;
-    }
-    .ke81-header-text,
-    .settle-header-text{
-        font-size: 26px;
-    }
-    .ce3title,
-    .title11R{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 30px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 20px;
-    }
-    .title1ke81{
-        font-size: 20px;
-    }
-    .title2ke81{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 30px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .title2ensemble,
-    .title1Settle{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 30px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .pricece3{
-        color: #939393;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 10px;
-      }
-    .offerce3,
-    .pricec11r,
-    .priceensemble{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 15px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 15px;
-      }
-    .buynow{
-        background-color: #000;
-        display: inline-block;
-        color: white;
-        height: 30px;
-        width: 100px;
-        margin-top: 10px;
-      }
-    .text_buynow{
-        margin-top: 3px;
-        margin-left: 21px;
-        font-size: 15px;
-      }
-    .learnmorece3{
-        display: inline-block;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 15px;
-        margin-left: 22px;
-        text-decoration-line: underline;
-      }
-    .offer11r{
-        font-size: 15px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-    }
-    .offereke81,
-    .offerSettle,
-    .offerensemble{
-        font-size: 15px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: white;
-      }
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a,
+  .toprightnav {
+    display: none;
+  }
+  .CE3lite-contain,
+  .one11R-contain,
+  .OnePlus-Ensemble,
+  .keyyboard81,
+  .Never-Settle {
+    width: 100%;
+    height: auto;
+  }
+  .content-ce3lite,
+  .content-11r,
+  .content-ensemble,
+  .content-ke81,
+  .content-Settle {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 0px;
+  }
+  .learnmoreensemble,
+  .buynowensemble {
+    width: 110px;
+    height: 40px;
+    font-size: 14px;
+  }
+  .ke81-header-text,
+  .settle-header-text {
+    font-size: 26px;
+  }
+  .ce3title,
+  .title11R {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 20px;
+  }
+  .title1ke81 {
+    font-size: 20px;
+  }
+  .title2ke81 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .title2ensemble,
+  .title1Settle {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .pricece3 {
+    color: #939393;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;
+  }
+  .offerce3,
+  .pricec11r,
+  .priceensemble {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+  }
+  .buynow {
+    background-color: #000;
+    display: inline-block;
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+  }
+  .text_buynow {
+    margin-top: 3px;
+    margin-left: 21px;
+    font-size: 15px;
+  }
+  .learnmorece3 {
+    display: inline-block;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 15px;
+    margin-left: 22px;
+    text-decoration-line: underline;
+  }
+  .offer11r {
+    font-size: 15px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .offereke81,
+  .offerSettle,
+  .offerensemble {
+    font-size: 15px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: white;
+  }
 
-    .offereke81-2{
-        font-size: 15px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: white;
-    }
-    .image11R,
-    .ce3imag,
-    .imageensemble,
-    .image-ke81,
-    .imageSettle{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 10px;
-    }
-    .image-ke81-2{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 10px;
-    }
-    .textlearnmore11r{
-        margin-bottom: 0;
-        margin-top: 7px;
-        font-family: 'Inter Tight', sans-serif;
-        margin-left: 20px;
-        font-size: 15px;
-    }
-    .learnmore11r{
-        display: inline-block;
-        border: solid black 3px;
-        padding: 0px;
-        width: 120px;
-        height: 40px;
-    }
-    .buynow11r{
-        width: 120px;
-        display: inline-block;
-        background-color: #000;
-        color: white;
-        height: 40px;
-        margin-top: 0px;
-    }
-    .text_buynow11r{
-        margin-left: 32px;
-        margin-top: 10px;
-        font-size: 15px;
-    }
-    .two-product-container{
-        margin-top: 31px;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-    .TVQ2,
-    .nordbuds{
-        width: 100%;
-        height: auto;
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-    }
-    .title-tvq2,
-    .title-nordbuds{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        margin-left: 10px;
-    }
-    .offer-tvq2,
-    .offer-nordbuds{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        margin-left: 10px;
-    }
-    .price-tvq2,
-    .price-nordbuds{
-      font-family: 'Inter Tight', sans-serif;
-      font-weight: 400;
-      line-height: normal;
-      margin-bottom: 10px;
-      margin-left: 10px;
-    }
-    .imagetvq2,
-    .imagenordbuds{
-      width: 100%;
-      height: auto;
-    }
-    .buynowtvq2,
-    .buynownordbuds{
-      background-color: #000;
-      color: white;
-      height: 30px;
-      width: 70px;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 10px;
-      margin-left: 10px;
-    }
-    .learnmoretvq2,
-    .learnmorenordbuds{
-      height: 30px;
-      width: 70px;
-      background-color: #F8F8F8;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 10px;
-    }
-    .This_week{
-        width: 100%;
-        height: auto;
-    }
-    .empty_div_1,
-    .empty_div_3,
-    .empty_div_4{
-        display: none;
-    }
-    .Fearuring-titl,
-    .topia-titl{
-        font-size: 14px;
-    }
-    .fearuring_line,
-    .topia_line,
-    .this_week_line{
-        width: 290px;
-        align-self: center;
-    }
-    .this_week_list_items{
-        border-collapse: collapse;
-        gap: 10px;
-    }
-    .this_week_list{
-        overflow-x: auto;
-        gap: 303px;
-        margin-top: 20px;
-        width: 100%;
-        height: auto;
-        display: flex;
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-    .this_week_list_items a{
-        text-decoration: none;
-        color: #000;
-        font-size: 15px;
-        width: 95px;
-    }
-    .this_week_11r,
-    .this_week_ce3lte,
-    .this_week_tvy,
-    .this_week_pad,
-    .footer-pages,
-    .main_contain,
-    .main_contain-2{
-        width: 100%;
-        height: auto;
-    }
-    .this_week_product{
-        width: 100%;
-        height: auto;
-        overflow-x: auto;
-    }
-    .this_week_product-2{
-        width: 100%;
-        height: auto;
-        overflow-x: auto;
-    }
-    .footer-pages,
-    .footer-contact{
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-    }
-    .content{
-        display: none;
-    }
-    .phones-list{
-      margin-top: 30px;
-      margin-left: 15px;
-    }
-    .store-list,
-    .support-list,
-    .explore-list,
-    .program-list{
-        margin-top: 10px;
-        margin-left: 15px;
-    }
-    .contact-info{
-
-    }
-    .two-product-container-2{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: column;
-        align-items: center;
-      }
-      .two-product-container-3{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: column;
-        align-items: center;
-      }
-      .about-nature,
-      .about-awards{
-        display: inline-block;
-        height: 306px;
-      }
-      .about-nature-3,
-      .about-awards-3{
-        display: inline-block;
-        height: auto;
-      }
-      .title-nature,
-      .title-awards{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 17px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: white;
-        margin-left: 10px;
-      }
-      .title-nature-2,
-      .title-awards-2{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 17px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .title-nature-3,
-      .title-awards-3{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 17px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .offer-nature{
-        font-size: 8px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 90px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-nature-2{
-        font-size: 8px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 90px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-nature-3{
-        font-size: 8px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .imagenature,
-      .imageawards{
-        width: 170px;
-      }
-      .nature,
-      .Awards{
-        display: flex;
-        justify-content: center;
-        width: auto;
-        background-color: #222222;
-        height: 218px;
-      }
-      .nature-2,
-      .Awards-2{
-        display: flex;
-        justify-content: center;
-        width: auto;
-        background-color: #F8F8F8;
-        height: 218px;
-      }
-      .nature-3,
-      .Awards-3{
-        display: flex;
-        justify-content: center;
-        width: auto;
-        background-color: #0D0D0D;
-        height: 218px;
-      }
-      .offer-awards{
-        font-size: 8px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 40px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-awards-2{
-        font-size: 8px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 40px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-awards-3{
-        font-size: 8px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .FAQele{
-        flex-direction: column;
-        gap: 10px;
-        align-items: center;
-        margin-top: 10px;
-      }
-
+  .offereke81-2 {
+    font-size: 15px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: white;
+  }
+  .image11R,
+  .ce3imag,
+  .imageensemble,
+  .image-ke81,
+  .imageSettle {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .image-ke81-2 {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .textlearnmore11r {
+    margin-bottom: 0;
+    margin-top: 7px;
+    font-family: "Inter Tight", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+  }
+  .learnmore11r {
+    display: inline-block;
+    border: solid black 3px;
+    padding: 0px;
+    width: 120px;
+    height: 40px;
+  }
+  .buynow11r {
+    width: 120px;
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    height: 40px;
+    margin-top: 0px;
+  }
+  .text_buynow11r {
+    margin-left: 32px;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .two-product-container {
+    margin-top: 31px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .TVQ2,
+  .nordbuds {
+    width: 100%;
+    height: auto;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+  }
+  .title-tvq2,
+  .title-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  .offer-tvq2,
+  .offer-nordbuds {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .price-tvq2,
+  .price-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  .imagetvq2,
+  .imagenordbuds {
+    width: 100%;
+    height: auto;
+  }
+  .buynowtvq2,
+  .buynownordbuds {
+    background-color: #000;
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 10px;
+    margin-left: 10px;
+  }
+  .learnmoretvq2,
+  .learnmorenordbuds {
+    height: 30px;
+    width: 70px;
+    background-color: #f8f8f8;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 10px;
+  }
+  .This_week {
+    width: 100%;
+    height: auto;
+  }
+  .empty_div_1,
+  .empty_div_3,
+  .empty_div_4 {
+    display: none;
+  }
+  .Fearuring-titl,
+  .topia-titl {
+    font-size: 14px;
+  }
+  .fearuring_line,
+  .topia_line,
+  .this_week_line {
+    width: 290px;
+    align-self: center;
+  }
+  .this_week_list_items {
+    border-collapse: collapse;
+    gap: 10px;
+  }
+  .this_week_list {
+    overflow-x: auto;
+    gap: 303px;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .this_week_list_items a {
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    width: 95px;
+  }
+  .this_week_11r,
+  .this_week_ce3lte,
+  .this_week_tvy,
+  .this_week_pad,
+  .footer-pages,
+  .main_contain,
+  .main_contain-2 {
+    width: 100%;
+    height: auto;
+  }
+  .this_week_product {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+  .this_week_product-2 {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+  .footer-pages,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .content {
+    display: none;
+  }
+  .phones-list {
+    margin-top: 30px;
+    margin-left: 15px;
+  }
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .two-product-container-2 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .two-product-container-3 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-nature,
+  .about-awards {
+    display: inline-block;
+    height: 306px;
+  }
+  .about-nature-3,
+  .about-awards-3 {
+    display: inline-block;
+    height: auto;
+  }
+  .title-nature,
+  .title-awards {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    margin-left: 10px;
+  }
+  .title-nature-2,
+  .title-awards-2 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .title-nature-3,
+  .title-awards-3 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .offer-nature {
+    font-size: 8px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 90px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-nature-2 {
+    font-size: 8px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 90px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-nature-3 {
+    font-size: 8px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .imagenature,
+  .imageawards {
+    width: 170px;
+  }
+  .nature,
+  .Awards {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: #222222;
+    height: 218px;
+  }
+  .nature-2,
+  .Awards-2 {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: #f8f8f8;
+    height: 218px;
+  }
+  .nature-3,
+  .Awards-3 {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: #0d0d0d;
+    height: 218px;
+  }
+  .offer-awards {
+    font-size: 8px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-awards-2 {
+    font-size: 8px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-awards-3 {
+    font-size: 8px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .FAQele {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 10px;
+  }
 }
 @media only screen and (min-width: 600px) {
-    .nav-contai{
-        width:100%;
-        justify-content: center;
-    }
-    .topnav a,
-    .toprightnav{
-        display: none;
-    }
-    .CE3lite-contain,
-    .one11R-contain,
-    .OnePlus-Ensemble,
-    .keyyboard81,
-    .Never-Settle{
-        width: 100%;
-        height: auto;
-    }
-    .content-ce3lite{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 0px;
-    }
-    .content-11r,
-    .content-ensemble,
-    .content-ke81,
-    .content-Settle{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 10px;
-    }
-    .about-ce3lite{
-        width: 330px;
-    }
-    .ce3title,
-    .title11R{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 30px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 20px;
-    }
-    .ke81-header-text,
-    .settle-header-text{
-        font-size: 30px;
-    }
-    .title2ke81{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 25px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .title2ensemble,
-    .title1Settle{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 30px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .pricece3{
-        color: #939393;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 10px;
-      }
-    .learnmoreensemble,
-    .buynowensemble{
-        width: 130px;
-        height: 40px;
-        font-size: 16px;
-    }
-    .offerce3,
-    .pricec11r,
-    .priceensemble{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 15px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 15px;
-      }
-    .buynow{
-        background-color: #000;
-        display: inline-block;
-        color: white;
-        height: 30px;
-        width: 100px;
-        margin-top: 10px;
-      }
-    .text_buynow{
-        margin-top: 3px;
-        margin-left: 21px;
-        font-size: 15px;
-      }
-    .learnmorece3{
-        display: inline-block;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 15px;
-        margin-left: 15px;
-        text-decoration-line: underline;
-      }
-    .offer11r{
-        font-size: 15px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #939393;
-    }
-    .offereke81{
-        font-size: 12px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offereke81-2{
-        font-size: 12px;
-        margin-top: 55px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offerensemble,
-    .offerSettle{
-        font-size: 15px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-      }
-    .image11R,
-    .imageensemble{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 90px;
-    }
-    .image-ke81,
-    .imageSettle{
-        max-width: 100%; 
-        height: auto; 
-    }
-    .image-ke81-2{
-        max-width: 100%; 
-        height: auto; 
-        margin-bottom: 25px;
-    }
-    .ce3imag{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 25px;
-    }
-    .textlearnmore11r{
-        margin-bottom: 0;
-        margin-top: 7px;
-        font-family: 'Inter Tight', sans-serif;
-        margin-left: 20px;
-        font-size: 15px;
-    }
-    .learnmore11r{
-        display: inline-block;
-        border: solid black 3px;
-        padding: 0px;
-        width: 120px;
-        height: 40px;
-    }
-    .buynow11r{
-        width: 120px;
-        display: inline-block;
-        background-color: #000;
-        color: white;
-        height: 40px;
-        margin-top: 0px;
-    }
-    .text_buynow11r{
-        margin-left: 32px;
-        margin-top: 10px;
-        font-size: 15px;
-    }
-    .two-product-container{
-        margin-top: 31px;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-    .TVQ2,
-    .nordbuds{
-        width: 100%;
-        height: auto;
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-    }
-    .title-tvq2,
-    .title-nordbuds{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 20px;
-        margin-left: 10px;
-    }
-    .offer-tvq2{
-        font-size: 16px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        margin-left: 10px;
-    }
-    .offer-nordbuds{
-        font-size: 16px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 80px;
-        margin-left: 10px;
-    }
-    .price-tvq2,
-    .price-nordbuds{
-      font-family: 'Inter Tight', sans-serif;
-      font-weight: 400;
-      line-height: normal;
-      margin-bottom: 10px;
-      margin-left: 10px;
-    }
-    .imagetvq2,
-    .imagenordbuds{
-      width: 100%;
-      height: auto;
-    }
-    .buynowtvq2,
-    .buynownordbuds{
-      background-color: #000;
-      color: white;
-      height: 30px;
-      width: 110px;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 14px;
-      margin-left: 10px;
-    }
-    .learnmoretvq2,
-    .learnmorenordbuds{
-      height: 30px;
-      width: 110px;
-      background-color: #F8F8F8;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 14px;
-    }
-    .This_week{
-        width: 100%;
-        height: auto;
-    }
-    .Fearuring-titl,
-    .topia-titl{
-        font-size: 16px;
-    }
-    .empty_div_1,
-    .empty_div_3,
-    .empty_div_4{
-        display: none;
-    }
-    .fearuring_line,
-    .topia_line,
-    .this_week_line{
-        width: 432px;
-        align-self: center;
-    }
-    .this_week_list_items{
-        border-collapse: collapse;
-        gap: 10px;
-    }
-    .this_week_list{
-        overflow-x: auto;
-        gap: 303px;
-        margin-top: 20px;
-        width: 100%;
-        height: auto;
-        display: flex;
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-    .this_week_list_items a{
-        text-decoration: none;
-        color: #000;
-        font-size: 15px;
-        width: 95px;
-    }
-    .this_week_11r,
-    .this_week_ce3lte,
-    .this_week_tvy,
-    .this_week_pad,
-    .footer-pages,
-    .main_contain,
-    .main_contain-2{
-        width: 100%;
-        height: auto;
-    }
-    .this_week_product{
-        width: 100%;
-        height: auto;
-        overflow-x: auto;
-    }
-    .this_week_product-2{
-        width: 100%;
-        height: auto;
-        overflow-x: auto;
-    }
-    .footer-pages,
-    .footer-contact{
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-    }
-    .content{
-        display: none;
-    }
-    .phones-list{
-      margin-top: 30px;
-      margin-left: 15px;
-    }
-    .payment{
-        margin-top: 30px;
-    }
-    .store-list,
-    .support-list,
-    .explore-list,
-    .program-list{
-      margin-top: 10px;
-      margin-left: 15px;
-    }
-    .contact-info{
-    }
-    .two-product-container-2{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: column;
-        align-items: center;
-      }
-      .two-product-container-3{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: column;
-        align-items: center;
-      }
-      .about-nature,
-      .about-awards{
-        display: inline-block;
-        height: 306px;
-      }
-      .about-nature-3,
-      .about-awards-3{
-        display: inline-block;
-        height: 306px;
-      }
-      .title-nature,
-      .title-awards{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: white;
-        margin-left: 10px;
-      }
-      .title-nature-2,
-      .title-awards-2{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .title-nature-3,
-      .title-awards-3{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .offer-nature{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 120px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-nature-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 120px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-nature-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .imagenature,
-      .imageawards{
-        width: 240px;
-      }
-      .nature,
-      .Awards{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #222222;
-        height: 306px;
-      }
-      .nature-2,
-      .Awards-2{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #F8F8F8;
-        height: 306px;
-      }
-      .nature-3,
-      .Awards-3{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #0D0D0D;
-        height: 235px;
-      }
-      .offer-awards{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-awards-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-awards-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .FAQele{
-        flex-direction: column;
-        gap: 10px;
-        align-items: center;
-        margin-top: 10px;
-      }
-
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a,
+  .toprightnav {
+    display: none;
+  }
+  .CE3lite-contain,
+  .one11R-contain,
+  .OnePlus-Ensemble,
+  .keyyboard81,
+  .Never-Settle {
+    width: 100%;
+    height: auto;
+  }
+  .content-ce3lite {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 0px;
+  }
+  .content-11r,
+  .content-ensemble,
+  .content-ke81,
+  .content-Settle {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 10px;
+  }
+  .about-ce3lite {
+    width: 330px;
+  }
+  .ce3title,
+  .title11R {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 20px;
+  }
+  .ke81-header-text,
+  .settle-header-text {
+    font-size: 30px;
+  }
+  .title2ke81 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .title2ensemble,
+  .title1Settle {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .pricece3 {
+    color: #939393;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;
+  }
+  .learnmoreensemble,
+  .buynowensemble {
+    width: 130px;
+    height: 40px;
+    font-size: 16px;
+  }
+  .offerce3,
+  .pricec11r,
+  .priceensemble {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+  }
+  .buynow {
+    background-color: #000;
+    display: inline-block;
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+  }
+  .text_buynow {
+    margin-top: 3px;
+    margin-left: 21px;
+    font-size: 15px;
+  }
+  .learnmorece3 {
+    display: inline-block;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 15px;
+    margin-left: 15px;
+    text-decoration-line: underline;
+  }
+  .offer11r {
+    font-size: 15px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #939393;
+  }
+  .offereke81 {
+    font-size: 12px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offereke81-2 {
+    font-size: 12px;
+    margin-top: 55px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offerensemble,
+  .offerSettle {
+    font-size: 15px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .image11R,
+  .imageensemble {
+    max-width: 100%;
+    height: auto;
+    margin-top: 90px;
+  }
+  .image-ke81,
+  .imageSettle {
+    max-width: 100%;
+    height: auto;
+  }
+  .image-ke81-2 {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 25px;
+  }
+  .ce3imag {
+    max-width: 100%;
+    height: auto;
+    margin-top: 25px;
+  }
+  .textlearnmore11r {
+    margin-bottom: 0;
+    margin-top: 7px;
+    font-family: "Inter Tight", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+  }
+  .learnmore11r {
+    display: inline-block;
+    border: solid black 3px;
+    padding: 0px;
+    width: 120px;
+    height: 40px;
+  }
+  .buynow11r {
+    width: 120px;
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    height: 40px;
+    margin-top: 0px;
+  }
+  .text_buynow11r {
+    margin-left: 32px;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .two-product-container {
+    margin-top: 31px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .TVQ2,
+  .nordbuds {
+    width: 100%;
+    height: auto;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+  }
+  .title-tvq2,
+  .title-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .offer-tvq2 {
+    font-size: 16px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    margin-left: 10px;
+  }
+  .offer-nordbuds {
+    font-size: 16px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 80px;
+    margin-left: 10px;
+  }
+  .price-tvq2,
+  .price-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  .imagetvq2,
+  .imagenordbuds {
+    width: 100%;
+    height: auto;
+  }
+  .buynowtvq2,
+  .buynownordbuds {
+    background-color: #000;
+    color: white;
+    height: 30px;
+    width: 110px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .learnmoretvq2,
+  .learnmorenordbuds {
+    height: 30px;
+    width: 110px;
+    background-color: #f8f8f8;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 14px;
+  }
+  .This_week {
+    width: 100%;
+    height: auto;
+  }
+  .Fearuring-titl,
+  .topia-titl {
+    font-size: 16px;
+  }
+  .empty_div_1,
+  .empty_div_3,
+  .empty_div_4 {
+    display: none;
+  }
+  .fearuring_line,
+  .topia_line,
+  .this_week_line {
+    width: 432px;
+    align-self: center;
+  }
+  .this_week_list_items {
+    border-collapse: collapse;
+    gap: 10px;
+  }
+  .this_week_list {
+    overflow-x: auto;
+    gap: 303px;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .this_week_list_items a {
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    width: 95px;
+  }
+  .this_week_11r,
+  .this_week_ce3lte,
+  .this_week_tvy,
+  .this_week_pad,
+  .footer-pages,
+  .main_contain,
+  .main_contain-2 {
+    width: 100%;
+    height: auto;
+  }
+  .this_week_product {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+  .this_week_product-2 {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+  .footer-pages,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .content {
+    display: none;
+  }
+  .phones-list {
+    margin-top: 30px;
+    margin-left: 15px;
+  }
+  .payment {
+    margin-top: 30px;
+  }
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .two-product-container-2 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .two-product-container-3 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-nature,
+  .about-awards {
+    display: inline-block;
+    height: 306px;
+  }
+  .about-nature-3,
+  .about-awards-3 {
+    display: inline-block;
+    height: 306px;
+  }
+  .title-nature,
+  .title-awards {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    margin-left: 10px;
+  }
+  .title-nature-2,
+  .title-awards-2 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .title-nature-3,
+  .title-awards-3 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .offer-nature {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 120px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-nature-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 120px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-nature-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .imagenature,
+  .imageawards {
+    width: 240px;
+  }
+  .nature,
+  .Awards {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #222222;
+    height: 306px;
+  }
+  .nature-2,
+  .Awards-2 {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #f8f8f8;
+    height: 306px;
+  }
+  .nature-3,
+  .Awards-3 {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #0d0d0d;
+    height: 235px;
+  }
+  .offer-awards {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-awards-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-awards-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .FAQele {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 10px;
+  }
 }
 @media only screen and (min-width: 768px) {
-    .nav-contai{
-        width:100%;
-        justify-content: center;
-    }
-    .topnav a,
-    .toprightnav{
-        display: none;
-    }
-    .CE3lite-contain{
-        width: 100%;
-        height: auto;
-    }
-    .one11R-contain,
-    .OnePlus-Ensemble,
-    .keyyboard81,
-    .Never-Settle{
-        width: 100%;
-        height: auto;
-        margin-top: 10px;
-    }
-    .content-ce3lite{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 0px;
-    }
-    .content-11r,
-    .content-ensemble,
-    .content-ke81,
-    .content-Settle{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 10px;
-    }
-    .about-ce3lite{
-        width: 300px;
-        margin-left: 20px;
-    }
-    .ke81-header-text,
-    .settle-header-text{
-        font-size: 34px;
-    }
-    .ce3title,
-    .title11R{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 20px;
-    }
-    .title2ensemble,
-    .title1Settle{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .title1ke81{
-        font-size: 19px;
-    }
-    .title2ke81{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 29px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .pricece3{
-        color: #939393;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 120px;
-      }
-    .offerce3,
-    .pricec11r,
-    .priceensemble{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 15px;
-      }
-    .learnmoreensemble,
-    .buynowensemble{
-        width: 190px;
-    }
-    .buynow{
-        background-color: #000;
-        display: inline-block;
-        color: white;
-        height: 30px;
-        width: 120px;
-        margin-top: 10px;
-      }
-    .text_buynow{
-        margin-top: 1px;
-        margin-left: 28px;
-        font-size: 17px;
-      }
-    .learnmorece3{
-        display: inline-block;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 17px;
-        margin-left: 15px;
-        text-decoration-line: underline;
-      }
-    .offer11r{
-        font-size: 18px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #939393;
-    }
-    .offerensemble,
-    .offerSettle{
-        font-size: 16px;
-        margin-top: 15px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-      }
-      .offereke81{
-        font-size: 18px;
-        margin-top: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-      }
-      .offereke81-2{
-        font-size: 18px;
-        margin-top: 93px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-      }
-      .about-11r,
-      .about-ensemble,
-      .about-ke81,
-      .about-Settle{
-        margin-left: 20px;
-      }
-    .image11R,
-    .imageensemble,
-    .image-ke81,
-    .imageSettle{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 30px;
-    }
-    .image-ke81-2{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 30px;
-        margin-bottom: 25px;
-    }
-    .ce3imag{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 25px;
-    }
-    .textlearnmore11r{
-        margin-bottom: 0;
-        margin-top: 7px;
-        font-family: 'Inter Tight', sans-serif;
-        margin-left: 20px;
-        font-size: 15px;
-    }
-    .learnmore11r{
-        display: inline-block;
-        border: solid black 3px;
-        padding: 0px;
-        width: 120px;
-        height: 40px;
-    }
-    .buynow11r{
-        width: 120px;
-        display: inline-block;
-        background-color: #000;
-        color: white;
-        height: 40px;
-        margin-top: 0px;
-    }
-    .text_buynow11r{
-        margin-left: 32px;
-        margin-top: 10px;
-        font-size: 15px;
-    }
-    .two-product-container{
-        margin-top: 41px;
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        justify-content: center;
-        align-items: center;
-    }
-    .TVQ2,
-    .nordbuds{
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-        width: 590px;
-    }
-    .about-tvq2,
-    .about-nordbuds{
-        margin-left: 20px;
-    }
-    .title-tvq2,
-    .title-nordbuds{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 20px;
-    }
-    .offer-tvq2{
-        font-size: 16px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-    }
-    .offer-nordbuds{
-        font-size: 16px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 80px;
-    }
-    .price-tvq2,
-    .price-nordbuds{
-      font-family: 'Inter Tight', sans-serif;
-      font-weight: 400;
-      line-height: normal;
-      margin-bottom: 10px;
-    }
-    .imagetvq2,
-    .imagenordbuds{
-      width: 100%;
-      height: auto;
-    }
-    .buynowtvq2,
-    .buynownordbuds{
-      background-color: #000;
-      color: white;
-      height: 30px;
-      width: 110px;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 14px;
-    }
-    .learnmoretvq2,
-    .learnmorenordbuds{
-      height: 30px;
-      width: 110px;
-      background-color: #F8F8F8;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 14px;
-    }
-    .This_week{
-        width: 100%;
-        height: auto;
-        margin-top: 30px;
-    }
-    .Fearuring-titl,
-    .topia-titl{
-        font-size: 18px;
-    }
-    .empty_div_1,
-    .empty_div_3,
-    .empty_div_4{
-        display: none;
-    }
-    .fearuring_line,
-    .this_week_line,
-    .topia_line{
-        width: 632px;
-        align-self: center;
-    }
-    .this_week_list_items{
-        border-collapse: collapse;
-        gap: 0px;
-        justify-content: center;
-    }
-    .this_week_list{
-        gap: 0px;
-        margin-top: 20px;
-        width: 100%;
-        height: auto;
-        display: flex;
-        margin-left: 10px;
-        margin-right: 10px;
-        justify-content: center;
-    }
-    .empty_div_2{
-        display: none;
-    }
-    .this_week_list_items a{
-        text-decoration: none;
-        color: #000;
-        font-size: 15px;
-        width: 95px;
-    }
-    .this_week_11r,
-    .this_week_ce3lte,
-    .this_week_tvy,
-    .this_week_pad,
-    .footer-pages,
-    .main_contain,
-    .main_contain-2{
-        width: 100%;
-        height: auto;
-    }
-    .this_week_product{
-        width: 100%;
-        height: auto;
-        overflow-x: auto;
-    }
-    .this_week_product-2{
-        width: 100%;
-        height: auto;
-        overflow-x: auto;
-    }
-    .footer-pages,
-    .footer-contact{
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-    }
-    .content{
-        display: none;
-    }
-    .phones-list{
-      margin-left: 15px;
-      margin-top: 30px;
-    }
-    .payment{
-        margin-top: 30px;
-    }
-    .store-list,
-    .support-list,
-    .explore-list,
-    .program-list{
-      margin-top: 10px;
-      margin-left: 15px;
-    }
-    .contact-info{
-    }
-    .two-product-container-2{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: column;
-        align-items: center;
-      }
-      .two-product-container-3{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: column;
-        align-items: center;
-      }
-      .about-nature,
-      .about-awards{
-        display: inline-block;
-        height: 306px;
-      }
-      .about-nature-3,
-      .about-awards-3{
-        display: inline-block;
-        height: auto;
-      }
-      .title-nature,
-      .title-awards{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: white;
-        margin-left: 10px;
-      }
-      .title-nature-2,
-      .title-awards-2{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .title-nature-3,
-      .title-awards-3{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .offer-nature{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 120px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-nature-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 120px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-nature-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .imagenature,
-      .imageawards{
-        width: 240px;
-      }
-      .nature,
-      .Awards{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #222222;
-        height: 306px;
-      }
-      .nature-2,
-      .Awards-2{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #F8F8F8;
-        height: 306px;
-      }
-      .nature-3,
-      .Awards-3{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #0D0D0D;
-        height: 235px;
-      }
-      .offer-awards{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-awards-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-awards-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .FAQele{
-        flex-direction: row;
-        gap: 40px;
-        justify-content: center;
-      }
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a,
+  .toprightnav {
+    display: none;
+  }
+  .CE3lite-contain {
+    width: 100%;
+    height: auto;
+  }
+  .one11R-contain,
+  .OnePlus-Ensemble,
+  .keyyboard81,
+  .Never-Settle {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .content-ce3lite {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 0px;
+  }
+  .content-11r,
+  .content-ensemble,
+  .content-ke81,
+  .content-Settle {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 10px;
+  }
+  .about-ce3lite {
+    width: 300px;
+    margin-left: 20px;
+  }
+  .ke81-header-text,
+  .settle-header-text {
+    font-size: 34px;
+  }
+  .ce3title,
+  .title11R {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 20px;
+  }
+  .title2ensemble,
+  .title1Settle {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .title1ke81 {
+    font-size: 19px;
+  }
+  .title2ke81 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .pricece3 {
+    color: #939393;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 120px;
+  }
+  .offerce3,
+  .pricec11r,
+  .priceensemble {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+  }
+  .learnmoreensemble,
+  .buynowensemble {
+    width: 190px;
+  }
+  .buynow {
+    background-color: #000;
+    display: inline-block;
+    color: white;
+    height: 30px;
+    width: 120px;
+    margin-top: 10px;
+  }
+  .text_buynow {
+    margin-top: 1px;
+    margin-left: 28px;
+    font-size: 17px;
+  }
+  .learnmorece3 {
+    display: inline-block;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 17px;
+    margin-left: 15px;
+    text-decoration-line: underline;
+  }
+  .offer11r {
+    font-size: 18px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #939393;
+  }
+  .offerensemble,
+  .offerSettle {
+    font-size: 16px;
+    margin-top: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offereke81 {
+    font-size: 18px;
+    margin-top: 13px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offereke81-2 {
+    font-size: 18px;
+    margin-top: 93px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .about-11r,
+  .about-ensemble,
+  .about-ke81,
+  .about-Settle {
+    margin-left: 20px;
+  }
+  .image11R,
+  .imageensemble,
+  .image-ke81,
+  .imageSettle {
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+  .image-ke81-2 {
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 25px;
+  }
+  .ce3imag {
+    max-width: 100%;
+    height: auto;
+    margin-top: 25px;
+  }
+  .textlearnmore11r {
+    margin-bottom: 0;
+    margin-top: 7px;
+    font-family: "Inter Tight", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+  }
+  .learnmore11r {
+    display: inline-block;
+    border: solid black 3px;
+    padding: 0px;
+    width: 120px;
+    height: 40px;
+  }
+  .buynow11r {
+    width: 120px;
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    height: 40px;
+    margin-top: 0px;
+  }
+  .text_buynow11r {
+    margin-left: 32px;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .two-product-container {
+    margin-top: 41px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  .TVQ2,
+  .nordbuds {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    width: 590px;
+  }
+  .about-tvq2,
+  .about-nordbuds {
+    margin-left: 20px;
+  }
+  .title-tvq2,
+  .title-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .offer-tvq2 {
+    font-size: 16px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+  }
+  .offer-nordbuds {
+    font-size: 16px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 80px;
+  }
+  .price-tvq2,
+  .price-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+  }
+  .imagetvq2,
+  .imagenordbuds {
+    width: 100%;
+    height: auto;
+  }
+  .buynowtvq2,
+  .buynownordbuds {
+    background-color: #000;
+    color: white;
+    height: 30px;
+    width: 110px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 14px;
+  }
+  .learnmoretvq2,
+  .learnmorenordbuds {
+    height: 30px;
+    width: 110px;
+    background-color: #f8f8f8;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 14px;
+  }
+  .This_week {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+  .Fearuring-titl,
+  .topia-titl {
+    font-size: 18px;
+  }
+  .empty_div_1,
+  .empty_div_3,
+  .empty_div_4 {
+    display: none;
+  }
+  .fearuring_line,
+  .this_week_line,
+  .topia_line {
+    width: 632px;
+    align-self: center;
+  }
+  .this_week_list_items {
+    border-collapse: collapse;
+    gap: 0px;
+    justify-content: center;
+  }
+  .this_week_list {
+    gap: 0px;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+  }
+  .empty_div_2 {
+    display: none;
+  }
+  .this_week_list_items a {
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    width: 95px;
+  }
+  .this_week_11r,
+  .this_week_ce3lte,
+  .this_week_tvy,
+  .this_week_pad,
+  .footer-pages,
+  .main_contain,
+  .main_contain-2 {
+    width: 100%;
+    height: auto;
+  }
+  .this_week_product {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+  .this_week_product-2 {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+  .footer-pages,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .content {
+    display: none;
+  }
+  .phones-list {
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+  .payment {
+    margin-top: 30px;
+  }
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .two-product-container-2 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .two-product-container-3 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-nature,
+  .about-awards {
+    display: inline-block;
+    height: 306px;
+  }
+  .about-nature-3,
+  .about-awards-3 {
+    display: inline-block;
+    height: auto;
+  }
+  .title-nature,
+  .title-awards {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    margin-left: 10px;
+  }
+  .title-nature-2,
+  .title-awards-2 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .title-nature-3,
+  .title-awards-3 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .offer-nature {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 120px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-nature-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 120px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-nature-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .imagenature,
+  .imageawards {
+    width: 240px;
+  }
+  .nature,
+  .Awards {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #222222;
+    height: 306px;
+  }
+  .nature-2,
+  .Awards-2 {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #f8f8f8;
+    height: 306px;
+  }
+  .nature-3,
+  .Awards-3 {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #0d0d0d;
+    height: 235px;
+  }
+  .offer-awards {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-awards-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-awards-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .FAQele {
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+  }
 }
 @media only screen and (min-width: 992px) {
-    .nav-contai{
-        width:100%;
-        justify-content: center;
-    }
-    .topnav a{
-        display: none; 
-    }
-    .toprightnav{
-        display: flex;
-        margin-top: 0px;
-    }
-    .CE3lite-contain{
-        width: 100%;
-        height: auto;
-    }
-    .one11R-contain,
-    .OnePlus-Ensemble,
-    .keyyboard81,
-    .Never-Settle{
-        width: 100%;
-        height: auto;
-        margin-top: 10px;
-    }
-    .content-ce3lite{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 0px;
-    }
-    .content-11r,
-    .content-ensemble,
-    .content-ke81,
-    .content-Settle{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 10px;
-    }
-    .about-ce3lite{
-        width: 300px;
-        margin-left: 20px;
-    }
-    .ke81-header-text,
-    .settle-header-text{
-        font-size: 37px;
-    }
-    .ce3title,
-    .title11R{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 45px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 20px;
-    }
-    .title2ensemble{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 45px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .title2ke81{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-    }
-    .title1Settle{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-    }
-    .pricece3{
-        color: #939393;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 23px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 100px;
-      }
-    .offerce3,
-    .pricec11r,
-    .priceensemble{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 22px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 15px;
-      }
-    .buynow{
-        background-color: #000;
-        display: inline-block;
-        color: white;
-        height: 30px;
-        width: 120px;
-        margin-top: 10px;
-      }
-    .text_buynow{
-        margin-top: 1px;
-        margin-left: 28px;
-        font-size: 17px;
-      }
-    .learnmorece3{
-        display: inline-block;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 17px;
-        margin-left: 15px;
-        text-decoration-line: underline;
-      }
-    .offer11r{
-        font-size: 18px;
-        margin-top: 25px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #939393;
-    }
-    .offerensemble{
-        font-size: 18px;
-        margin-top: 25px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offereke81{
-        font-size: 18px;
-        margin-top: 55px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offereke81-2{
-        font-size: 18px;
-        margin-top: 85px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offerSettle{
-        font-size: 18px;
-        margin-top: 135px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-      }
-      .about-11r{
-        margin-left: 20px;
-      }
-    .image11R,
-    .imageensemble{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 30px;
-    }
-    .image-ke81,
-    .imageSettle{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 10px;
-    }
-    .image-ke81-2{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 10px;
-        margin-bottom: 25px;
-    }
-    .ce3imag{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 25px;
-    }
-    .textlearnmore11r{
-        margin-bottom: 0;
-        margin-top: 7px;
-        font-family: 'Inter Tight', sans-serif;
-        margin-left: 20px;
-        font-size: 15px;
-    }
-    .learnmore11r{
-        display: inline-block;
-        border: solid black 3px;
-        padding: 0px;
-        width: 120px;
-        height: 40px;
-    }
-    .buynow11r{
-        width: 120px;
-        display: inline-block;
-        background-color: #000;
-        color: white;
-        height: 40px;
-        margin-top: 0px;
-    }
-    .text_buynow11r{
-        margin-left: 32px;
-        margin-top: 10px;
-        font-size: 15px;
-    }
-    .two-product-container{
-        margin-top: 41px;
-        display: flex;
-        flex-direction: row;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        justify-content: center;
-        align-items: center;
-    }
-    .TVQ2{
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-        width: 590px;
-    }
-    .nordbuds{
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-        width: 590px;
-    }
-    .about-tvq2,
-    .about-nordbuds{
-        margin-left: 20px;
-    }
-    .title-tvq2,
-    .title-nordbuds{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 20px;
-    }
-    .offer-tvq2{
-        font-size: 18px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 30px;
-    }
-    .offer-nordbuds{
-        font-size: 18px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 68px;
-    }
-    .price-tvq2,
-    .price-nordbuds{
-      font-family: 'Inter Tight', sans-serif;
-      font-weight: 400;
-      line-height: normal;
-      margin-bottom: 10px;
-      font-size: 18px;
-    }
-    .imagetvq2,
-    .imagenordbuds{
-      width: 100%;
-      height: auto;
-    }
-    .buynowtvq2,
-    .buynownordbuds{
-      background-color: #000;
-      color: white;
-      height: 30px;
-      width: 110px;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 14px;
-      margin-bottom: 20px;
-    }
-    .learnmoretvq2,
-    .learnmorenordbuds{
-      height: 30px;
-      width: 110px;
-      background-color: #F8F8F8;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 14px;
-    }
-    .This_week{
-        width: 100%;
-        height: auto;
-        margin-top: 30px;
-    }
-    .empty_div_1
-    .empty_div_3,
-    .empty_div_4{
-        display: none;
-    }
-    .fearuring_line,
-    .this_week_line,
-    .topia_line{
-        width: 832px;
-        align-self: center;
-    }
-    .this_week_list_items{
-        border-collapse: collapse;
-        gap: 0px;
-        justify-content: center;
-    }
-    .this_week_list{
-        gap: 0px;
-        margin-top: 20px;
-        width: 100%;
-        height: auto;
-        display: flex;
-        margin-left: 10px;
-        margin-right: 10px;
-        justify-content: center;
-    }
-    .empty_div_2{
-        display: none;
-    }
-    .this_week_list_items a{
-        text-decoration: none;
-        color: #000;
-        font-size: 15px;
-        width: 95px;
-    }
-    .main_contain{
-        height: 470px;
-        width: 290px;
-        margin-right: 0px;
-    }
-    .main_contain-2{
-        height: 470px;
-        width: 470px;
-        margin-right: 0px;
-    }
-    .this_week_product{
-        overflow-x: auto;
-    }
-    .this_week_product-2{
-        overflow-x: auto;
-    }
-    .footer-pages{
-        display: flex;
-        flex-direction: row;
-        gap: 7px;
-    }
-    .footer-contact{
-        display: flex;
-        flex-direction: row;
-        gap: 150px;
-    }
-    .content{
-        display:block;
-    }
-    .contact-info{
-    }
-    .payment{
-        margin-top: 0px;
-    }
-    .phones-list,
-    .store-list,
-    .support-list,
-    .explore-list,
-    .program-list{
-        margin-top: 40px;
-        margin-left: 15px;
-
-    }
-    .two-product-container-2{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: row;
-      }
-      .two-product-container-3{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        flex-direction: row;
-      }
-      .about-nature,
-      .about-awards{
-        display: inline-block;
-        height: 306px;
-      }
-      .about-nature-3,
-      .about-awards-3{
-        display: inline-block;
-        height: auto;
-      }
-      .title-nature,
-      .title-awards{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: white;
-        margin-left: 10px;
-      }
-      .title-nature-2,
-      .title-awards-2{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .title-nature-3,
-      .title-awards-3{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 27px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .offer-nature{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 120px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-nature-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 120px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-nature-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 10px;
-      }
-      .imagenature,
-      .imageawards{
-        width: 240px;
-      }
-      .nature,
-      .Awards{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #222222;
-        height: 306px;
-      }
-      .nature-2,
-      .Awards-2{
-        display: flex;
-        justify-content: center;
-        width: 590px;
-        background-color: #F8F8F8;
-        height: 306px;
-      }
-      .nature-3,
-        .Awards-3{
-        display: flex;
-        justify-content: center;
-        width: 620px;
-        height: 230px;
-        background-color: #0D0D0D;
-}
-      .offer-awards{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: white;
-        margin-left: 10px;
-      }
-      .offer-awards-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
-      }
-      .offer-awards-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 20px;
-      }
-      .FAQele{
-        justify-content: center;
-        flex-direction: row;
-        gap: 90px;
-      }
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a {
+    display: none;
+  }
+  .toprightnav {
+    display: flex;
+    margin-top: 0px;
+  }
+  .CE3lite-contain {
+    width: 100%;
+    height: auto;
+  }
+  .one11R-contain,
+  .OnePlus-Ensemble,
+  .keyyboard81,
+  .Never-Settle {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .content-ce3lite {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 0px;
+  }
+  .content-11r,
+  .content-ensemble,
+  .content-ke81,
+  .content-Settle {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 10px;
+  }
+  .about-ce3lite {
+    width: 300px;
+    margin-left: 20px;
+  }
+  .ke81-header-text,
+  .settle-header-text {
+    font-size: 37px;
+  }
+  .ce3title,
+  .title11R {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 20px;
+  }
+  .title2ensemble {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .title2ke81 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+  }
+  .title1Settle {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+  }
+  .pricece3 {
+    color: #939393;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 100px;
+  }
+  .offerce3,
+  .pricec11r,
+  .priceensemble {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+  }
+  .buynow {
+    background-color: #000;
+    display: inline-block;
+    color: white;
+    height: 30px;
+    width: 120px;
+    margin-top: 10px;
+  }
+  .text_buynow {
+    margin-top: 1px;
+    margin-left: 28px;
+    font-size: 17px;
+  }
+  .learnmorece3 {
+    display: inline-block;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 17px;
+    margin-left: 15px;
+    text-decoration-line: underline;
+  }
+  .offer11r {
+    font-size: 18px;
+    margin-top: 25px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #939393;
+  }
+  .offerensemble {
+    font-size: 18px;
+    margin-top: 25px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offereke81 {
+    font-size: 18px;
+    margin-top: 55px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offereke81-2 {
+    font-size: 18px;
+    margin-top: 85px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offerSettle {
+    font-size: 18px;
+    margin-top: 135px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .about-11r {
+    margin-left: 20px;
+  }
+  .image11R,
+  .imageensemble {
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+  .image-ke81,
+  .imageSettle {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .image-ke81-2 {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+  .ce3imag {
+    max-width: 100%;
+    height: auto;
+    margin-top: 25px;
+  }
+  .textlearnmore11r {
+    margin-bottom: 0;
+    margin-top: 7px;
+    font-family: "Inter Tight", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+  }
+  .learnmore11r {
+    display: inline-block;
+    border: solid black 3px;
+    padding: 0px;
+    width: 120px;
+    height: 40px;
+  }
+  .buynow11r {
+    width: 120px;
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    height: 40px;
+    margin-top: 0px;
+  }
+  .text_buynow11r {
+    margin-left: 32px;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .two-product-container {
+    margin-top: 41px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  .TVQ2 {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    width: 590px;
+  }
+  .nordbuds {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    width: 590px;
+  }
+  .about-tvq2,
+  .about-nordbuds {
+    margin-left: 20px;
+  }
+  .title-tvq2,
+  .title-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .offer-tvq2 {
+    font-size: 18px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  .offer-nordbuds {
+    font-size: 18px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 68px;
+  }
+  .price-tvq2,
+  .price-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  .imagetvq2,
+  .imagenordbuds {
+    width: 100%;
+    height: auto;
+  }
+  .buynowtvq2,
+  .buynownordbuds {
+    background-color: #000;
+    color: white;
+    height: 30px;
+    width: 110px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .learnmoretvq2,
+  .learnmorenordbuds {
+    height: 30px;
+    width: 110px;
+    background-color: #f8f8f8;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 14px;
+  }
+  .This_week {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+  .empty_div_1 .empty_div_3,
+  .empty_div_4 {
+    display: none;
+  }
+  .fearuring_line,
+  .this_week_line,
+  .topia_line {
+    width: 832px;
+    align-self: center;
+  }
+  .this_week_list_items {
+    border-collapse: collapse;
+    gap: 0px;
+    justify-content: center;
+  }
+  .this_week_list {
+    gap: 0px;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+  }
+  .empty_div_2 {
+    display: none;
+  }
+  .this_week_list_items a {
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    width: 95px;
+  }
+  .main_contain {
+    height: 470px;
+    width: 290px;
+    margin-right: 0px;
+  }
+  .main_contain-2 {
+    height: 470px;
+    width: 470px;
+    margin-right: 0px;
+  }
+  .this_week_product {
+    overflow-x: auto;
+  }
+  .this_week_product-2 {
+    overflow-x: auto;
+  }
+  .footer-pages {
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+  }
+  .footer-contact {
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+  }
+  .content {
+    display: block;
+  }
+  .payment {
+    margin-top: 0px;
+  }
+  .phones-list,
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 40px;
+    margin-left: 15px;
+  }
+  .two-product-container-2 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: row;
+  }
+  .two-product-container-3 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: row;
+  }
+  .about-nature,
+  .about-awards {
+    display: inline-block;
+    height: 306px;
+  }
+  .about-nature-3,
+  .about-awards-3 {
+    display: inline-block;
+    height: auto;
+  }
+  .title-nature,
+  .title-awards {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    margin-left: 10px;
+  }
+  .title-nature-2,
+  .title-awards-2 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .title-nature-3,
+  .title-awards-3 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .offer-nature {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 120px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-nature-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 120px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-nature-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+  }
+  .imagenature,
+  .imageawards {
+    width: 240px;
+  }
+  .nature,
+  .Awards {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #222222;
+    height: 306px;
+  }
+  .nature-2,
+  .Awards-2 {
+    display: flex;
+    justify-content: center;
+    width: 590px;
+    background-color: #f8f8f8;
+    height: 306px;
+  }
+  .nature-3,
+  .Awards-3 {
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    height: 230px;
+    background-color: #0d0d0d;
+  }
+  .offer-awards {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: white;
+    margin-left: 10px;
+  }
+  .offer-awards-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+  }
+  .offer-awards-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
+  .FAQele {
+    justify-content: center;
+    flex-direction: row;
+    gap: 90px;
+  }
 }
 @media only screen and (min-width: 1200px) {
-    .nav-contai{
-        width:100%;
-        justify-content: center;
-    }
-    .topnav a{
-        display: flex; 
-    }
-    .toprightnav{
-        display: flex;
-        margin-top: 0px;
-    }
-    .CE3lite-contain{
-        width: 100%;
-        height: auto;
-    }
-    .one11R-contain,
-    .OnePlus-Ensemble,
-    .keyyboard81,
-    .Never-Settle{
-        width: 100%;
-        height: auto;
-        margin-top: 10px;
-    }
-    .content-ce3lite{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 80px;
-    }
-    .content-11r,
-    .content-ensemble,
-    .content-ke81,
-    .content-Settle{
-        display: flex;
-        flex-direction: row;
-        margin-left: 10px;
-        margin-right: 10px;
-        gap: 30px;
-    }
-    .about-ce3lite{
-        width: 530px;
-        margin-left: 20px;
-    }
-    .about-11r,
-    .about-ensemble,
-    .about-Settle{
-        margin-left: 20px;
-        width: 500px;
-        margin-top: 10px;
-    }
-    .about-ke81{
-        margin-left: 20px;
-        width: 500px;
-      }
-    .ke81-header-text,
-    .settle-header-text{
-        font-size: 40px;
-    }
-    .ce3title,
-    .title11R{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 40px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 20px;
-    }
-    .title1Settle{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 40px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .title2ensemble,
-    .title2ke81{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 40px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: -1px;
-        margin-top: 0px;
-    }
-    .pricece3{
-        color: #939393;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 170px;
-      }
-    .offerce3,
-    .pricec11r,
-    .priceensemble{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        margin-top: 15px;
-      }
-    .buynow{
-        background-color: #000;
-        display: inline-block;
-        color: white;
-        height: 50px;
-        width: 160px;
-        margin-top: 10px;
-      }
-    .text_buynow{
-        margin-top: 7px;
-        margin-left: 38px;
-        font-size: 22px;
-      }
-    .learnmorece3{
-        display: inline-block;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 22px;
-        margin-left: 15px;
-        text-decoration-line: underline;
-      }
-    .offer11r{
-        font-size: 20px;
-        margin-top: 110px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offerensemble,
-    .offereke81{
-        font-size: 19px;
-        margin-top: 135px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offereke81-2{
-        font-size: 19px;
-        margin-top: 205px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-    }
-    .offerSettle{
-        font-size: 19px;
-        margin-top: 225px;
-        font-family: 'Inter Tight', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #ffffff;
-      }
-    .image11R,
-    .imageensemble,
-    .imageSettle{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 30px;
-    }
-    .image-ke81{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 10px;
-    }
-    .image-ke81-2{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 10px;
-        margin-bottom: 25px;
-    }
-    .ce3imag{
-        max-width: 100%; 
-        height: auto; 
-        margin-top: 25px;
-    }
-    .textlearnmore11r{
-        margin-bottom: 0;
-        margin-left: 34px;
-        margin-top: 7px;
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 22px;
-    }
-    .learnmore11r{
-        display: inline-block;
-        border: solid black 3px;
-        padding: 0px;
-        width: 180px;
-        height: 50px;
-    }
-    .buynow11r{
-        width: 180px;
-        display: inline-block;
-        background-color: #000;
-        color: white;
-        height: 50px;
-        margin-top: 0px;
-    }
-    .text_buynow11r{
-        margin-left: 45px;
-        margin-top: 7px;
-        font-size: 22px;
-    }
-    .two-product-container{
-        margin-top: 41px;
-        display: flex;
-        flex-direction: row;
-        gap: 30px;
-        margin-left: 10px;
-        margin-right: 10px;
-        justify-content: center;
-        align-items: center;
-    }
-    .TVQ2{
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-        width: 590px;
-    }
-    .nordbuds{
-        background-color: #F8F8F8;
-        display: flex;
-        justify-content: center;
-        width: 590px;
-    }
-    .about-tvq2,
-    .about-nordbuds{
-        margin-left: 20px;
-    }
-    .title-tvq2,
-    .title-nordbuds{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 40px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 20px;
-    }
-    .offer-tvq2{
-        font-size: 19px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 30px;
-    }
-    .offer-nordbuds{
-        font-size: 19px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 75px;
-    }
-    .price-tvq2,
-    .price-nordbuds{
-      font-family: 'Inter Tight', sans-serif;
-      font-weight: 400;
-      line-height: normal;
-      margin-bottom: 10px;
-      font-size: 19px;
-    }
-    .imagetvq2,
-    .imagenordbuds{
-      width: 100%;
-      height: auto;
-      margin-top: 40px;
-    }
-    .buynowtvq2,
-    .buynownordbuds{
-      background-color: #000;
-      color: white;
-      height: 45px;
-      width: 150px;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 22px;
-      margin-bottom: 20px;
-    }
-    .learnmoretvq2,
-    .learnmorenordbuds{
-      height: 45px;
-      width: 150px;
-      background-color: #F8F8F8;
-      font-family: 'Inter Tight', sans-serif;
-      font-size: 22px;
-    }
-    .This_week{
-        width: 100%;
-        height: auto;
-        margin-top: 30px;
-    }
-    .Fearuring-titl,
-    .topia-titl{
-        font-size: 20px;
-        font-family: 'Inter Tight', sans-serif;
-    }
-    .hot_picks{
-        font-size: 20px;
-        font-family: 'Inter Tight', sans-serif;
-    }
-    .empty_div_1,
-    .empty_div_3,
-    .empty_div_4{
-        display: none;
-    }
-    .fearuring_line,
-    .this_week_line,
-    .topia_line{
-        width: 1232px;
-        align-self: center;
-    }
-    .this_week_list_items{
-        gap: 0px;
-        justify-content: center;
-    }
-    .this_week_list{
-        gap: 0px;
-        margin-top: 10px;
-        width: 100%;
-        height: auto;
-        display: flex;
-        margin-left: 10px;
-        margin-right: 10px;
-        justify-content: center;
-    }
-    .empty_div_2{
-        display: none;
-    }
-    .this_week_list_items a{
-        text-decoration: none;
-        color: #000;
-        font-size: 20px;
-        width: 140px;
-        font-family: 'Inter Tight', sans-serif;
-    }
-    .this_week_product{
-        display: flex;
-        flex-direction: row;
-        gap: 15px;
-        margin-top: 50px;
-        justify-content: center;
-        align-items: center;
-        width: 1400px;
-      }
-      .this_week_product-2{
-        display: flex;
-        flex-direction: row;
-        gap: 15px;
-        margin-top: 50px;
-        justify-content: center;
-        align-items: center;
-      }
-      .this_week_11r,
-      .this_week_ce3lte,
-      .this_week_tvy,
-      .this_week_pad{
-        width: 420px;
-      }
-    .main_contain{
-        background-color: rgb(255, 255, 255);
-        height: 470px;
-        width: 290px;
-    }
-    .main_contain-2{
-        background-color: rgb(255, 255, 255);
-        height: 470px;
-        width: 470px;
-    }
-    .footer-pages{
-        display: flex;
-        flex-direction: row;
-        gap: 67px;
-    }
-    .footer-contact{
-        display: flex;
-        flex-direction: row;
-        gap: 600px;
-        margin-top: 20px;
-    }
-    .content{
-        display:block;
-    }
-    .payment{
-        margin-top: 0px;
-    }
-    .phones-list,
-    .store-list,
-    .support-list,
-    .explore-list,
-    .program-list{
-        margin-top: 40px;
-    }
-    .two-product-container-2{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 20px;
-      }
-      .two-product-container-3{
-        margin-top: 61px;
-        display: flex;
-        justify-content: center;
-        gap: 20px;
-      }
-      .about-nature,
-      .about-awards{
-        display: inline-block;
-      }
-      .about-nature-2,
-      .about-awards-2{
-        display: inline-block;
-        height: auto;
-      }
-      .title-nature,
-      .title-awards{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: white;
-        margin-left: 20px;
-      }
-      .title-nature-2,
-      .title-awards-2{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(0, 0, 0);
-        margin-left: 20px;
-      }
-      .title-nature-3,
-        .title-awards-3{
-        font-family: 'Inter Tight', sans-serif;
-        font-size: 35px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        display: inline-block;
-        margin-top: 15px;
-        color: rgb(255, 255, 255);
-        margin-left: 20px;
-        }
-      .offer-nature{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 170px;
-        color: white;
-        margin-left: 20px;
-      }
-      .offer-nature-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 170px;
-        color: rgb(0, 0, 0);
-        margin-left: 20px;
-      }
-      .offer-nature-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 20px;
-      }
-      .imagenature,
-      .imageawards{
-        width: 280px;
-      }
-      .nature,
-      .Awards{
-        display: flex;
-        justify-content: center;
-        width: 620px;
-        height: 358px;
-        background-color: #222222;
-      }
-      .nature-2,
-      .Awards-2{
-        display: flex;
-        justify-content: center;
-        width: 620px;
-        height: 358px;
-        background-color: #F8F8F8;
-      }
-      .nature-3,
-      .Awards-3{
-        display: flex;
-        justify-content: center;
-        width: 620px;
-        height: 265px;
-        background-color: #0D0D0D;
-      }
-      .offer-awards{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: white;
-        margin-left: 20px;
-      }
-      .offer-awards-2{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 60px;
-        color: rgb(0, 0, 0);
-        margin-left: 20px;
-      }
-      .offer-awards-3{
-        font-size: 13px;
-        font-family: 'Inter Tight', sans-serif;
-        line-height: normal;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        color: rgb(255, 255, 255);
-        margin-left: 20px;
-      }
-      .FAQele{
-        display: flex;
-        justify-content: center;
-        flex-direction: row;
-        gap: 100px;
-      }
-      .line1cont{
-        margin-top: 30px;
-      }
+  .nav-contai {
+    width: 100%;
+    justify-content: center;
+  }
+  .topnav a {
+    display: flex;
+  }
+  .toprightnav {
+    display: flex;
+    margin-top: 0px;
+  }
+  .CE3lite-contain {
+    width: 100%;
+    height: auto;
+  }
+  .one11R-contain,
+  .OnePlus-Ensemble,
+  .keyyboard81,
+  .Never-Settle {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .content-ce3lite {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 80px;
+  }
+  .content-11r,
+  .content-ensemble,
+  .content-ke81,
+  .content-Settle {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    gap: 30px;
+  }
+  .about-ce3lite {
+    width: 530px;
+    margin-left: 20px;
+  }
+  .about-11r,
+  .about-ensemble,
+  .about-Settle {
+    margin-left: 20px;
+    width: 500px;
+    margin-top: 10px;
+  }
+  .about-ke81 {
+    margin-left: 20px;
+    width: 500px;
+  }
+  .ke81-header-text,
+  .settle-header-text {
+    font-size: 40px;
+  }
+  .ce3title,
+  .title11R {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 20px;
+  }
+  .title1Settle {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .title2ensemble,
+  .title2ke81 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1px;
+    margin-top: 0px;
+  }
+  .pricece3 {
+    color: #939393;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 170px;
+  }
+  .offerce3,
+  .pricec11r,
+  .priceensemble {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+  }
+  .buynow {
+    background-color: #000;
+    display: inline-block;
+    color: white;
+    height: 50px;
+    width: 160px;
+    margin-top: 10px;
+  }
+  .text_buynow {
+    margin-top: 7px;
+    margin-left: 38px;
+    font-size: 22px;
+  }
+  .learnmorece3 {
+    display: inline-block;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 22px;
+    margin-left: 15px;
+    text-decoration-line: underline;
+  }
+  .offer11r {
+    font-size: 20px;
+    margin-top: 110px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offerensemble,
+  .offereke81 {
+    font-size: 19px;
+    margin-top: 135px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offereke81-2 {
+    font-size: 19px;
+    margin-top: 205px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .offerSettle {
+    font-size: 19px;
+    margin-top: 225px;
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #ffffff;
+  }
+  .image11R,
+  .imageensemble,
+  .imageSettle {
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+  .image-ke81 {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .image-ke81-2 {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+  .ce3imag {
+    max-width: 100%;
+    height: auto;
+    margin-top: 25px;
+  }
+  .textlearnmore11r {
+    margin-bottom: 0;
+    margin-left: 34px;
+    margin-top: 7px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 22px;
+  }
+  .learnmore11r {
+    display: inline-block;
+    border: solid black 3px;
+    padding: 0px;
+    width: 180px;
+    height: 50px;
+  }
+  .buynow11r {
+    width: 180px;
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    height: 50px;
+    margin-top: 0px;
+  }
+  .text_buynow11r {
+    margin-left: 45px;
+    margin-top: 7px;
+    font-size: 22px;
+  }
+  .two-product-container {
+    margin-top: 41px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  .TVQ2 {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    width: 590px;
+  }
+  .nordbuds {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    width: 590px;
+  }
+  .about-tvq2,
+  .about-nordbuds {
+    margin-left: 20px;
+  }
+  .title-tvq2,
+  .title-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .offer-tvq2 {
+    font-size: 19px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  .offer-nordbuds {
+    font-size: 19px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 75px;
+  }
+  .price-tvq2,
+  .price-nordbuds {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+    font-size: 19px;
+  }
+  .imagetvq2,
+  .imagenordbuds {
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+  }
+  .buynowtvq2,
+  .buynownordbuds {
+    background-color: #000;
+    color: white;
+    height: 45px;
+    width: 150px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .learnmoretvq2,
+  .learnmorenordbuds {
+    height: 45px;
+    width: 150px;
+    background-color: #f8f8f8;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 22px;
+  }
+  .This_week {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+  .Fearuring-titl,
+  .topia-titl {
+    font-size: 20px;
+    font-family: "Inter Tight", sans-serif;
+  }
+  .hot_picks {
+    font-size: 20px;
+    font-family: "Inter Tight", sans-serif;
+  }
+  .empty_div_1,
+  .empty_div_3,
+  .empty_div_4 {
+    display: none;
+  }
+  .fearuring_line,
+  .this_week_line,
+  .topia_line {
+    width: 1232px;
+    align-self: center;
+  }
+  .this_week_list_items {
+    gap: 0px;
+    justify-content: center;
+  }
+  .this_week_list {
+    gap: 0px;
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+  }
+  .empty_div_2 {
+    display: none;
+  }
+  .this_week_list_items a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    width: 140px;
+    font-family: "Inter Tight", sans-serif;
+  }
+  .this_week_product {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    width: 1400px;
+  }
+  .this_week_product-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+  }
+  .this_week_11r,
+  .this_week_ce3lte,
+  .this_week_tvy,
+  .this_week_pad {
+    width: 420px;
+  }
+  .main_contain {
+    background-color: rgb(255, 255, 255);
+    height: 470px;
+    width: 290px;
+  }
+  .main_contain-2 {
+    background-color: rgb(255, 255, 255);
+    height: 470px;
+    width: 470px;
+  }
+  .footer-pages {
+    display: flex;
+    flex-direction: row;
+    gap: 67px;
+  }
+  .footer-contact {
+    display: flex;
+    flex-direction: row;
+    gap: 600px;
+    margin-top: 20px;
+  }
+  .content {
+    display: block;
+  }
+  .payment {
+    margin-top: 0px;
+  }
+  .phones-list,
+  .store-list,
+  .support-list,
+  .explore-list,
+  .program-list {
+    margin-top: 40px;
+  }
+  .two-product-container-2 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .two-product-container-3 {
+    margin-top: 61px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .about-nature,
+  .about-awards {
+    display: inline-block;
+  }
+  .about-nature-2,
+  .about-awards-2 {
+    display: inline-block;
+    height: auto;
+  }
+  .title-nature,
+  .title-awards {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    margin-left: 20px;
+  }
+  .title-nature-2,
+  .title-awards-2 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  .title-nature-3,
+  .title-awards-3 {
+    font-family: "Inter Tight", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
+  .offer-nature {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 170px;
+    color: white;
+    margin-left: 20px;
+  }
+  .offer-nature-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 170px;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  .offer-nature-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
+  .imagenature,
+  .imageawards {
+    width: 280px;
+  }
+  .nature,
+  .Awards {
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    height: 358px;
+    background-color: #222222;
+  }
+  .nature-2,
+  .Awards-2 {
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    height: 358px;
+    background-color: #f8f8f8;
+  }
+  .nature-3,
+  .Awards-3 {
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    height: 265px;
+    background-color: #0d0d0d;
+  }
+  .offer-awards {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: white;
+    margin-left: 20px;
+  }
+  .offer-awards-2 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  .offer-awards-3 {
+    font-size: 13px;
+    font-family: "Inter Tight", sans-serif;
+    line-height: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
+  .FAQele {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+  }
+  .line1cont {
+    margin-top: 30px;
+  }
 }

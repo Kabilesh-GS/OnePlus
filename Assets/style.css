@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-.nav-contai{
+.nav-contai {
   display: flex;
   gap: 290px;
   justify-content: center;
@@ -21,12 +21,12 @@ body {
   font-size: 14px;
   padding-top: 10px;
 }
-.logo{
+.logo {
   width: 110px;
   margin-top: 3px;
 }
 .topnav a:hover {
-  border-bottom-style:solid;
+  border-bottom-style: solid;
   border-color: red;
 }
 .toprightnav {
@@ -45,43 +45,48 @@ body {
   padding: 10px;
 }
 .toprightnav a:hover {
-  border-bottom-style:solid;
+  border-bottom-style: solid;
   border-color: red;
-} 
-.header{
+}
+.header {
   color: black;
   text-align: center;
   text-decoration: none;
   font-size: 14px;
   padding-top: 10px;
 }
-.header-2{
+.header-2 {
   color: black;
   text-align: center;
   text-decoration: none;
   font-size: 14px;
   padding-top: 10px;
 }
-.header:hover{
-  border-bottom-style:solid;
+.header:hover {
+  border-bottom-style: solid;
   border-color: red;
-}.header-2:hover{
-  border-bottom-style:solid;
+}
+.header-2:hover {
+  border-bottom-style: solid;
   border-color: red;
   cursor: pointer;
 }
-.CE3lite-contain{
-  background: rgb(227,227,227);
-  background: linear-gradient(0deg, rgba(227,227,227,1) 0%, rgba(246,246,246,1) 100%);
+.CE3lite-contain {
+  background: rgb(227, 227, 227);
+  background: linear-gradient(
+    0deg,
+    rgba(227, 227, 227, 1) 0%,
+    rgba(246, 246, 246, 1) 100%
+  );
   height: 650px;
 }
-.content-ce3lite{
+.content-ce3lite {
   display: flex;
   justify-content: center;
   gap: 300px;
 }
-.ce3title{
-  font-family: 'Inter Tight', sans-serif;
+.ce3title {
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -90,30 +95,30 @@ body {
   display: inline-block;
   margin-top: 61px;
 }
-.ce3imag{
+.ce3imag {
   width: 700px;
   display: inline-block;
   margin-top: 50px;
 }
-.pricece3{
+.pricece3 {
   color: #939393;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: 220px;
 }
-.offerce3{
+.offerce3 {
   color: #000;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: 35px;
 }
-.buynow{
+.buynow {
   background-color: #000;
   display: inline-block;
   color: white;
@@ -121,28 +126,28 @@ body {
   width: 150px;
   margin-top: 10px;
 }
-.text_buynow{
+.text_buynow {
   margin-top: 7px;
   margin-left: 46px;
 }
-.learnmorece3{
+.learnmorece3 {
   display: inline-block;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 14px;
   margin-left: 42px;
   text-decoration-line: underline;
 }
-.title1ensemble{
+.title1ensemble {
   margin-bottom: 0px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   letter-spacing: -1px;
   font-size: 22px;
   color: white;
   margin-top: 15px;
 }
-.title11R{
-  font-family: 'Inter Tight', sans-serif;
+.title11R {
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -151,8 +156,8 @@ body {
   display: inline-block;
   margin-top: 61px;
 }
-.title2ensemble{
-  font-family: 'Inter Tight', sans-serif;
+.title2ensemble {
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -162,46 +167,46 @@ body {
   margin-top: 61px;
   color: white;
 }
-.offer11r{
+.offer11r {
   font-size: 15px;
   margin-top: 148px;
   color: #000;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
-.offerensemble{
+.offerensemble {
   font-size: 15px;
   margin-top: 148px;
   color: #ffffff;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
 .content-11r,
-.content-ensemble{
+.content-ensemble {
   display: flex;
   justify-content: center;
   gap: 30px;
 }
 .about-11r,
-.about-ensemble{
+.about-ensemble {
   margin: 0px;
 }
 .image11R,
-.imageensemble{
+.imageensemble {
   width: 720px;
-  margin-top:70px;
+  margin-top: 70px;
 }
-.learnmore11r{
+.learnmore11r {
   display: inline-block;
   border: solid black 3px;
   padding: 0px;
   width: 220px;
 }
-.buynow11r{
+.buynow11r {
   width: 220px;
   display: inline-block;
   background-color: #000;
@@ -210,49 +215,49 @@ body {
   height: 40px;
   margin-top: 0px;
 }
-.text_buynow11r{
+.text_buynow11r {
   margin-left: 80px;
   margin-top: 8px;
 }
-.priceensemble{
+.priceensemble {
   color: #ffffff;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
-.oneplus-more-back-contain{
+.oneplus-more-back-contain {
   background-color: #000;
 }
-.pricec11r{
+.pricec11r {
   color: #000;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
-.textlearnmore11r{
+.textlearnmore11r {
   margin-bottom: 5px;
   margin-top: 7px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   margin-left: 65px;
 }
-.footer-pages{
+.footer-pages {
   display: flex;
   grid-template-columns: 420px 240px 240px 240px 240px;
   justify-content: center;
   gap: 85px;
 }
-.list_title{
-  font-family: 'Inter Tight', sans-serif;
+.list_title {
+  font-family: "Inter Tight", sans-serif;
   font-size: 18px;
   font-style: normal;
   margin-bottom: 20px;
 }
-.content{
-  font-family: 'Inter Tight', sans-serif;
+.content {
+  font-family: "Inter Tight", sans-serif;
   font-size: 18px;
   font-style: normal;
   margin-top: 15px;
@@ -262,43 +267,43 @@ body {
 .store-list,
 .support-list,
 .explore-list,
-.program-list{
+.program-list {
   margin-top: 61px;
 }
-.payment{
+.payment {
   display: flex;
   margin-top: 61px;
 }
 .wallet,
 .pie,
-.bank{
+.bank {
   margin-left: 18px;
 }
-.footer-contact{
+.footer-contact {
   display: flex;
   column-gap: 0px;
   justify-content: center;
   align-items: center;
   gap: 600px;
 }
-.two-product-container{
+.two-product-container {
   margin-top: 61px;
   display: flex;
   justify-content: center;
   gap: 20px;
 }
-.TVQ2{
+.TVQ2 {
   width: 586px;
   height: 350px;
-  background-color: #F8F8F8;
+  background-color: #f8f8f8;
 }
 .about-tvq2,
-.about-nordbuds{
+.about-nordbuds {
   display: inline-block;
 }
 .title-tvq2,
-.title-nordbuds{
-  font-family: 'Inter Tight', sans-serif;
+.title-nordbuds {
+  font-family: "Inter Tight", sans-serif;
   font-size: 35px;
   font-style: normal;
   font-weight: 400;
@@ -306,61 +311,61 @@ body {
   display: inline-block;
   margin-top: 15px;
 }
-.offer-tvq2{
+.offer-tvq2 {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 90px;
 }
 .price-tvq2,
-.price-nordbuds{
-  font-family: 'Inter Tight', sans-serif;
+.price-nordbuds {
+  font-family: "Inter Tight", sans-serif;
   font-weight: 400;
   line-height: normal;
   margin-bottom: 10px;
 }
 .buynowtvq2,
-.buynownordbuds{
+.buynownordbuds {
   background-color: #000;
   color: white;
   height: 37px;
   width: 130px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
 }
 .learnmoretvq2,
-.learnmorenordbuds{
+.learnmorenordbuds {
   height: 37px;
   width: 130px;
-  background-color: #F8F8F8;
-  font-family: 'Inter Tight', sans-serif;
+  background-color: #f8f8f8;
+  font-family: "Inter Tight", sans-serif;
 }
 .imagetvq2,
-.imagenordbuds{
+.imagenordbuds {
   width: 280px;
 }
 .image-cont-tvq2,
-.image-cont-nordbuds{
+.image-cont-nordbuds {
   width: 280px;
 }
 .TVQ2,
-.nordbuds{
+.nordbuds {
   display: flex;
   justify-content: center;
 }
-.nordbuds{
+.nordbuds {
   width: 586px;
   height: 350px;
-  background-color: #F8F8F8;
+  background-color: #f8f8f8;
 }
-.offer-nordbuds{
+.offer-nordbuds {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 130px;
 }
-.This_week{
+.This_week {
   background-color: rgb(255, 255, 255);
   height: auto;
   display: flex;
@@ -368,97 +373,97 @@ body {
   align-items: center;
   margin-top: 61px;
 }
-.hot_picks{
-  font-family: 'Inter Tight', sans-serif; 
+.hot_picks {
+  font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   margin: 0px;
 }
-.oneplus-featuring{
+.oneplus-featuring {
   margin-top: 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.Fearuring-titl{
-  font-family: 'Inter Tight', sans-serif; 
+.Fearuring-titl {
+  font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   margin: 0px;
   color: white;
 }
-.this_week_line{
+.this_week_line {
   background-color: #00000021;
   height: 2px;
   width: 1192px;
   vertical-align: middle;
   align-self: center;
 }
-.fearuring_line{
+.fearuring_line {
   background-color: #ffffff;
   height: 1px;
   width: 1232px;
 }
 .empty_div_1,
-.empty_div_2{
+.empty_div_2 {
   background-color: #00000000;
   height: 10px;
   width: 200px;
 }
-.empty_div_3{
+.empty_div_3 {
   background-color: #00000000;
   height: 10px;
   width: 200px;
 }
-.featuring_title{
+.featuring_title {
   display: flex;
   gap: 870px;
   margin-bottom: 5px;
   justify-content: start;
 }
-.this_week_title{
+.this_week_title {
   display: flex;
   gap: 800px;
   margin-bottom: 5px;
 }
-.this_week_list_items{
+.this_week_list_items {
   display: flex;
   gap: 35px;
 }
-.this_week_list_items a{
+.this_week_list_items a {
   text-decoration: none;
   color: #000;
   font-size: 20px;
 }
-.this_week_list{
+.this_week_list {
   display: flex;
   gap: 303px;
   margin-top: 20px;
 }
-.this_week_product{
+.this_week_product {
   display: flex;
-  gap:  10px;
+  gap: 10px;
   margin-top: 50px;
 }
-.this_week_product-2{
+.this_week_product-2 {
   display: flex;
   margin-top: 50px;
 }
-.main_contain{
+.main_contain {
   background-color: rgb(255, 255, 255);
   height: 470px;
   width: 290px;
 }
-.main_contain-2{
+.main_contain-2 {
   background-color: rgb(255, 255, 255);
   height: 470px;
   width: 470px;
 }
-.image_contain{
-  background-color: #F8F8F8;
+.image_contain {
+  background-color: #f8f8f8;
   width: 290px;
   height: 260px;
 }
-.image_contain-2{
+.image_contain-2 {
   background-color: #78626200;
   width: 350px;
   height: 260px;
@@ -466,21 +471,21 @@ body {
 .this_week_11r_img,
 .this_week_ce3_img,
 .this_week_tvy_img,
-.this_week_pad_img{
+.this_week_pad_img {
   width: 260px;
   margin-left: 15px;
 }
 .this_week_11r_img-2,
 .this_week_ce3_img-2,
-.this_week_tvy_img-2{
+.this_week_tvy_img-2 {
   width: 420px;
   margin-left: 15px;
 }
 .this_week_11r_title,
 .this_week_pad_title,
 .this_week_ce3lte_title,
-.this_week_tvy_title{
-  font-family: 'Inter Tight', sans-serif;
+.this_week_tvy_title {
+  font-family: "Inter Tight", sans-serif;
   font-size: 23px;
   margin-bottom: 4px;
   margin-top: 15px;
@@ -489,32 +494,32 @@ body {
 .this_week_11r_des,
 .this_week_pad_des,
 .this_week_ce3lte_des,
-.this_week_tvy_des{
-  font-family: 'Inter Tight', sans-serif;
+.this_week_tvy_des {
+  font-family: "Inter Tight", sans-serif;
   font-size: 14px;
   margin-bottom: 10px;
 }
-.this_week_tvy_offer{
-  font-family: 'Inter Tight', sans-serif;
+.this_week_tvy_offer {
+  font-family: "Inter Tight", sans-serif;
   font-size: 14px;
   color: red;
   margin-bottom: 15px;
 }
-.buynowensemble{
+.buynowensemble {
   width: 230px;
   border: none;
   height: 47px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   justify-content: start;
   align-items: center;
   background-color: #ffffff;
 }
-.learnmoreensemble{
+.learnmoreensemble {
   width: 230px;
   border: none;
   height: 47px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   color: white;
   justify-content: start;
@@ -523,11 +528,11 @@ body {
   border: solid;
   border-color: white;
 }
-.price_button{
+.price_button {
   width: 290px;
   border: none;
   height: 47px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 16px;
   display: flex;
   justify-content: start;
@@ -536,38 +541,38 @@ body {
 }
 
 /*keyboard 81pro CSS*/
-.ke81-header{
+.ke81-header {
   color: white;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   letter-spacing: -1px;
 }
-.offereke81{
+.offereke81 {
   font-size: 15px;
   color: #ffffff;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: 170px;
 }
-.image-ke81{
+.image-ke81 {
   width: 720px;
 }
-.title1ke81{
+.title1ke81 {
   margin-bottom: 0px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   letter-spacing: -1px;
   font-size: 22px;
   color: white;
   margin-top: 15px;
 }
-.title2ke81{
-  font-family: 'Inter Tight', sans-serif;
+.title2ke81 {
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -575,23 +580,23 @@ body {
   letter-spacing: -1px;
   color: white;
 }
-.content-ke81{
+.content-ke81 {
   display: flex;
   justify-content: center;
   gap: 20px;
 }
-.ke81-header{
+.ke81-header {
   display: flex;
   align-self: center;
   justify-content: center;
 }
-.notifyke81{
+.notifyke81 {
   color: white;
   text-decoration: underline;
   font-size: 16px;
   margin-bottom: 50px;
 }
-.notifyke81-2{
+.notifyke81-2 {
   color: white;
   text-decoration: underline;
   font-size: 16px;
@@ -599,59 +604,59 @@ body {
 }
 
 /*Onetopia headder css*/
-.topia-contain{
+.topia-contain {
   margin-top: 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.topia-titl{
-  font-family: 'Inter Tight', sans-serif; 
+.topia-titl {
+  font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   margin: 0px;
   color: white;
 }
-.topia_line{
+.topia_line {
   background-color: #ffffff;
   height: 1px;
   width: 1232px;
 }
-.empty_div_4{
+.empty_div_4 {
   background-color: #00000000;
   height: 10px;
   width: 200px;
 }
-.topia_title{
+.topia_title {
   display: flex;
   gap: 870px;
   margin-bottom: 5px;
   justify-content: start;
 }
 /*Never Settle*/
-.imageSettle{
+.imageSettle {
   width: 720px;
 }
-.Settle-header{
+.Settle-header {
   color: white;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   letter-spacing: -1px;
 }
-.offerSettle{
+.offerSettle {
   font-size: 15px;
   color: #ffffff;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: 170px;
 }
-.title1Settle{
-  font-family: 'Inter Tight', sans-serif;
+.title1Settle {
+  font-family: "Inter Tight", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -659,42 +664,42 @@ body {
   letter-spacing: -1px;
   color: white;
 }
-.content-Settle{
+.content-Settle {
   display: flex;
   justify-content: center;
   gap: 20px;
 }
-.Settle-header{
+.Settle-header {
   display: flex;
   align-self: center;
   justify-content: center;
 }
-.learnSettle{
+.learnSettle {
   color: white;
   text-decoration: underline;
   font-size: 16px;
 }
 
 /*two container 2*/
-.two-product-container-2{
+.two-product-container-2 {
   margin-top: 61px;
   display: flex;
   justify-content: center;
   gap: 20px;
 }
-.two-product-container-3{
+.two-product-container-3 {
   margin-top: 61px;
   display: flex;
   justify-content: center;
   gap: 20px;
 }
 .about-nature,
-.about-awards{
+.about-awards {
   display: inline-block;
 }
 .title-nature-2,
-.title-awards-2{
-  font-family: 'Inter Tight', sans-serif;
+.title-awards-2 {
+  font-family: "Inter Tight", sans-serif;
   font-size: 35px;
   font-style: normal;
   font-weight: 400;
@@ -705,8 +710,8 @@ body {
   margin-left: 20px;
 }
 .title-nature-3,
-.title-awards-3{
-  font-family: 'Inter Tight', sans-serif;
+.title-awards-3 {
+  font-family: "Inter Tight", sans-serif;
   font-size: 35px;
   font-style: normal;
   font-weight: 400;
@@ -717,8 +722,8 @@ body {
   margin-left: 20px;
 }
 .title-nature,
-.title-awards{
-  font-family: 'Inter Tight', sans-serif;
+.title-awards {
+  font-family: "Inter Tight", sans-serif;
   font-size: 35px;
   font-style: normal;
   font-weight: 400;
@@ -728,18 +733,18 @@ body {
   color: white;
   margin-left: 20px;
 }
-.offer-nature-2{
+.offer-nature-2 {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 170px;
   color: rgb(0, 0, 0);
   margin-left: 20px;
 }
-.offer-nature-3{
+.offer-nature-3 {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 10px;
@@ -747,16 +752,16 @@ body {
   margin-left: 20px;
 }
 .about-nature-3,
-.about-awards-3{
+.about-awards-3 {
   display: inline-block;
   height: auto;
 }
 .imagenature,
-.imageawards{
+.imageawards {
   width: 280px;
 }
 .nature,
-.Awards{
+.Awards {
   display: flex;
   justify-content: center;
   width: 620px;
@@ -764,42 +769,42 @@ body {
   background-color: #222222;
 }
 .nature-2,
-.Awards-2{
+.Awards-2 {
   display: flex;
   justify-content: center;
   width: 620px;
   height: 358px;
-  background-color: #F8F8F8;
+  background-color: #f8f8f8;
 }
 .nature-3,
-.Awards-3{
+.Awards-3 {
   display: flex;
   justify-content: center;
   width: 620px;
   height: 265px;
-  background-color: #0D0D0D;
+  background-color: #0d0d0d;
 }
-.offer-awards{
+.offer-awards {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 60px;
   color: white;
   margin-left: 20px;
 }
-.offer-awards-2{
+.offer-awards-2 {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 60px;
   color: rgb(0, 0, 0);
   margin-left: 20px;
 }
-.offer-awards-3{
+.offer-awards-3 {
   font-size: 13px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
   margin-bottom: 10px;
   margin-top: 10px;
@@ -807,25 +812,25 @@ body {
   margin-left: 20px;
 }
 /*Faq elements*/
-.FAQele{
+.FAQele {
   display: flex;
   flex-direction: row;
   gap: 100px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: "Inter Tight", sans-serif;
   line-height: normal;
 }
 /*line*/
-.line2cont{
+.line2cont {
   display: flex;
   justify-content: center;
 }
-.line1cont{
+.line1cont {
   display: flex;
   justify-content: center;
   margin-top: 30px;
 }
 .line2,
-.line1{
+.line1 {
   height: 2px;
   background-color: #00000019;
   width: 1200px;
@@ -833,11 +838,11 @@ body {
 /*icons*/
 .face,
 .xtwit,
-.insta{
+.insta {
   font-size: 26px;
   text-decoration: none;
 }
-.contact-info{
+.contact-info {
   display: flex;
   gap: 10px;
 }
