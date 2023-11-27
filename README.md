@@ -1,5 +1,9 @@
 # OnePlus
-This is my first project where I make a clone of the OnePlus website.
+This is my first project where I make a clone of the OnePlus website with HTML, CSS and JavaScript.<br>
+I made three pages.<br>
+First page is the main home page.
+Second page is about OnePlus TVs
+And finally a user login form which uses Javascript for it's validation.
 
 LINK :<br>
 <a href="https://kabilesh-gs.github.io/OnePlus/">Click Here</a> to view the page!!<br>
